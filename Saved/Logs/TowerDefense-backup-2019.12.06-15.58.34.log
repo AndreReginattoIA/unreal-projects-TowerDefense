@@ -1,0 +1,1248 @@
+﻿Log file open, 12/06/19 12:29:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TowerDefense
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172036
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.06-15.29.23:417][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.06-15.29.23:417][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.06-15.29.23:417][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.06-15.29.23:417][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.06-15.29.23:417][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.06-15.29.23:417][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.06-15.29.23:418][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.06-15.29.23:419][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.06-15.29.23:419][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.06-15.29.23:419][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.06-15.29.23:419][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.06-15.29.23:419][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.06-15.29.23:419][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.06-15.29.23:419][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.06-15.29.23:419][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.06-15.29.23:419][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.06-15.29.23:419][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.06-15.29.23:419][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.06-15.29.23:425][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:425][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.06-15.29.23:425][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.06-15.29.23:425][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:425][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.06-15.29.23:425][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:425][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.06-15.29.23:425][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.06-15.29.23:425][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.06-15.29.23:425][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.06-15.29.23:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.06-15.29.23:427][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.06-15.29.23:428][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.06-15.29.23:429][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.06-15.29.23:429][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.06-15.29.23:429][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.06-15.29.23:429][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.06-15.29.23:429][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.06-15.29.23:429][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.06-15.29.23:429][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.06-15.29.23:429][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.06-15.29.23:429][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:429][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.06-15.29.23:429][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.06-15.29.23:429][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.06-15.29.23:429][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.06-15.29.23:438][  0]LogHAL: Display: Platform has ~ 8 GB [8459489280 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.06-15.29.23:438][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.06-15.29.23:438][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.06-15.29.23:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.06-15.29.23:440][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.06-15.29.23:441][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.06-15.29.23:442][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.06-15.29.23:442][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.06-15.29.23:443][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.06-15.29.23:443][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.06-15.29.23:443][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.06-15.29.23:443][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.06-15.29.23:443][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.06-15.29.23:444][  0]LogInit: Computer: DESKTOP-9KFPL0D
+[2019.12.06-15.29.23:444][  0]LogInit: User: Andre
+[2019.12.06-15.29.23:444][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.06-15.29.23:444][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.06-15.29.23:444][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.06-15.29.23:445][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.06-15.29.23:445][  0]LogMemory: Process Physical Memory: 100.82 MB used, 100.83 MB peak
+[2019.12.06-15.29.23:445][  0]LogMemory: Process Virtual Memory: 100.38 MB used, 100.38 MB peak
+[2019.12.06-15.29.23:445][  0]LogMemory: Physical Memory: 3143.22 MB used,  4924.38 MB free, 8067.60 MB total
+[2019.12.06-15.29.23:445][  0]LogMemory: Virtual Memory: 4682.91 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.12.06-15.29.23:451][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.06-15.29.23:517][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.12.06-15.29.23:517][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.12.06-15.29.23:883][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.06-15.29.23:952][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.06-15.29.23:952][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.06-15.29.24:352][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.06-15.29.24:352][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.06-15.29.24:480][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX130' (Feature Level 11_0)
+[2019.12.06-15.29.24:480][  0]LogD3D11RHI:       2010/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.06-15.29.24:501][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.12.06-15.29.24:501][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.06-15.29.24:506][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.06-15.29.24:506][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.06-15.29.24:506][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.06-15.29.24:572][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.06-15.29.24:572][  0]LogD3D11RHI:     GPU DeviceId: 0x174d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.06-15.29.24:572][  0]LogWindows: EnumDisplayDevices:
+[2019.12.06-15.29.24:572][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.12.06-15.29.24:573][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.12.06-15.29.24:573][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.12.06-15.29.24:574][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.12.06-15.29.24:574][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX130
+[2019.12.06-15.29.24:574][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.06-15.29.24:574][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.06-15.29.24:574][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.12.06-15.29.24:654][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.06-15.29.24:671][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.06-15.29.25:294][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.06-15.29.25:317][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.06-15.29.25:344][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.06-15.29.25:371][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.06-15.29.25:400][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.06-15.29.25:428][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.06-15.29.25:453][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.06-15.29.25:479][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.06-15.29.25:492][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.06-15.29.25:558][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.06-15.29.25:561][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.06-15.29.25:595][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.06-15.29.25:595][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.06-15.29.25:621][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.06-15.29.25:622][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.06-15.29.25:640][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.06-15.29.25:653][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.06-15.29.25:667][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.06-15.29.25:681][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.06-15.29.25:725][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.06-15.29.25:725][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.06-15.29.25:725][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.06-15.29.25:744][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.06-15.29.25:851][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (D:/Unreal Projects/TowerDefense/Intermediate/Shaders/WorkingDirectory/2984/).
+[2019.12.06-15.29.25:851][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Andre.DESKTOP-9KFPL0D/AppData/Local/Temp/UnrealShaderWorkingDir/FA63AF7E479086BD87230388C13050FC/'.
+[2019.12.06-15.29.25:856][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.06-15.29.25:856][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.06-15.29.25:856][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.06-15.29.27:154][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.06-15.29.27:243][  0]LogDerivedDataCache: Loaded boot cache 0.09s 73MB C:/Users/Andre.DESKTOP-9KFPL0D/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.06-15.29.27:243][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Andre.DESKTOP-9KFPL0D/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.06-15.29.27:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/TowerDefense/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.06-15.29.27:243][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.06-15.29.27:243][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/TowerDefense/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.06-15.29.27:243][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.06-15.29.27:270][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.06-15.29.27:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.06-15.29.27:270][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.06-15.29.27:272][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andre.DESKTOP-9KFPL0D/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.06-15.29.27:272][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.06-15.29.27:272][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.06-15.29.27:319][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.06-15.29.27:324][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.06-15.29.27:325][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.06-15.29.27:440][  0]LogAssetRegistry: FAssetRegistry took 0.0048 seconds to start up
+[2019.12.06-15.29.27:958][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.06-15.29.28:293][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.06-15.29.28:293][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.06-15.29.28:293][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.06-15.29.28:293][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.06-15.29.28:293][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.06-15.29.28:313][  0]LogNetVersion: TowerDefense 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 240942927)
+[2019.12.06-15.29.29:412][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.252581 seconds
+[2019.12.06-15.29.29:432][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.06-15.29.29:432][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.06-15.29.29:432][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.06-15.29.31:387][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.06-15.29.31:393][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.06-15.29.31:514][  0]SourceControl: Source control is disabled
+[2019.12.06-15.29.31:515][  0]SourceControl: Source control is disabled
+[2019.12.06-15.29.31:517][  0]SourceControl: Source control is disabled
+[2019.12.06-15.29.31:519][  0]SourceControl: Source control is disabled
+[2019.12.06-15.29.31:671][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.06-15.29.31:958][  0]LogOcInput: OculusInput pre-init called
+[2019.12.06-15.29.31:976][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.06-15.29.31:976][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.06-15.29.32:164][  0]LogEngine: Initializing Engine...
+[2019.12.06-15.29.32:165][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.06-15.29.32:167][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.06-15.29.32:719][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.06-15.29.32:763][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.06-15.29.32:789][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.29.33:398][  0]LogInit: FAudioDevice initialized.
+[2019.12.06-15.29.33:399][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.06-15.29.33:520][  0]LogDerivedDataCache: Saved boot cache 0.12s 73MB C:/Users/Andre.DESKTOP-9KFPL0D/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.06-15.29.33:567][  0]LogInit: Texture streaming: Enabled
+[2019.12.06-15.29.33:625][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.06-15.29.33:625][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.06-15.29.33:627][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.06-15.29.33:779][  0]LogInit: Transaction tracking system initialized
+[2019.12.06-15.29.33:883][  0]BlueprintLog: New page: Editor Load
+[2019.12.06-15.29.34:066][  0]LocalizationService: Localization service is disabled
+[2019.12.06-15.29.34:596][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TowerDefense/Content/' took 0.01s
+[2019.12.06-15.29.34:596][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.06-15.29.34:597][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.06-15.29.34:990][  0]SourceControl: Source control is disabled
+[2019.12.06-15.29.34:990][  0]Cmd: MAP LOAD FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.06-15.29.34:991][  0]LightingResults: New page: Lighting Build
+[2019.12.06-15.29.34:997][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.29.34:998][  0]MapCheck: New page: Map Check
+[2019.12.06-15.29.34:998][  0]LightingResults: New page: Lighting Build
+[2019.12.06-15.29.35:052][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.12.06-15.29.38:855][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.29.38:875][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.06-15.29.38:939][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.12.06-15.29.38:940][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.06-15.29.38:940][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2019.12.06-15.29.38:940][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 3.950
+[2019.12.06-15.29.39:121][  0]LogCollectionManager: Loaded 0 collections in 0.004815 seconds
+[2019.12.06-15.29.39:155][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TowerDefense/Saved/Collections/' took 0.00s
+[2019.12.06-15.29.39:155][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TowerDefense/Content/Developers/Andre/Collections/' took 0.00s
+[2019.12.06-15.29.39:155][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TowerDefense/Content/Collections/' took 0.00s
+[2019.12.06-15.29.39:155][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2019.12.06-15.29.39:177][  0]LogContentBrowser: Native class hierarchy populated in 0.0187 seconds. Added 2863 classes and 680 folders.
+[2019.12.06-15.29.39:201][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.12.06-15.29.40:032][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.12.06-15.29.40:131][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.29.40:159][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.29.40:184][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.29.40:211][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.29.40:245][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.12.06-15.29.40:710][  0]LogSlate: Took 0.000716 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.06-15.29.40:720][  0]LogSlate: Took 0.000645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.06-15.29.40:751][  0]LogSlate: Took 0.023252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.06-15.29.41:060][  0]LogRenderer: Reallocating scene render targets to support 820x612 Format 10 NumSamples 1 (Frame:1).
+[2019.12.06-15.29.41:452][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.12.06-15.29.41:452][  0]LogLoad: (Engine Initialization) Total time: 21.73 seconds
+[2019.12.06-15.29.41:452][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.06-15.29.41:549][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.06-15.29.41:639][  0]LogSlate: Took 0.010321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.06-15.29.42:707][  8]LogSlate: Took 0.000471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.06-15.29.42:766][  9]LogAssetRegistry: Asset discovery search completed in 15.3282 seconds
+[2019.12.06-15.29.42:780][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000013 seconds (found 0 objects)
+[2019.12.06-15.29.42:780][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000180 seconds (updated 0 objects)
+[2019.12.06-15.29.51:095][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.06-15.30.41:475][234]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A953165B-4045-3E9C-A8AF-C7A65202DBA1}
+[2019.12.06-15.30.41:512][236]LogHttp: Warning: 0000020BC0AF42C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.30.41:512][236]LogHttp: Warning: 0000020BC0AF42C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.30.41:513][236]LogHttp: Warning: 0000020BC0AF42C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.30.41:513][236]LogHttp: Warning: 0000020BC0AF42C0: libcurl info message cache 1 (Closing connection 0)
+[2019.12.06-15.30.41:513][236]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.30.58:549][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-15.31.18:980][ 48]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.06-15.31.34:313][874]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TowerDefenseGameMode.TowerDefenseGameMode
+[2019.12.06-15.31.35:452][874]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2019.12.06-15.31.47:495][305]LogRenderer: Reallocating scene render targets to support 956x612 Format 10 NumSamples 1 (Frame:1).
+[2019.12.06-15.31.57:949][664]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.06-15.32.20:394][807]BlueprintLog: New page: Compile TowerDefenseGameMode
+[2019.12.06-15.32.20:813][807]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2019.12.06-15.32.22:480][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerDefenseGameMode" FILE="D:/Unreal Projects/TowerDefense/Content/TowerDefenseGameMode.uasset" SILENT=true
+[2019.12.06-15.32.22:525][876]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TowerDefenseGameMode4EE9AA81490AACA88569D5B3808CDB77.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TowerDefenseGameMode.uasset'
+[2019.12.06-15.32.25:982][999]LogSlate: Window 'TowerDefenseGameMode' being destroyed
+[2019.12.06-15.32.25:996][999]LogSlate: Window 'TowerDefenseGameMode' being destroyed
+[2019.12.06-15.32.26:087][999]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.32.34:722][339]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.06-15.32.41:552][574]LogHttp: Warning: 0000020C11957C40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.32.41:552][574]LogHttp: Warning: 0000020C11957C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.32.41:552][574]LogHttp: Warning: 0000020C11957C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.32.41:552][574]LogHttp: Warning: 0000020C11957C40: libcurl info message cache 1 (Closing connection 1)
+[2019.12.06-15.32.41:552][574]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.32.43:552][639]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.06-15.32.53:095][169]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.06-15.32.53:102][169]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.06-15.32.54:578][243]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TowerDefenseGameMode.TowerDefenseGameMode
+[2019.12.06-15.32.59:289][392]LogSlate: Window 'TowerDefenseGameMode' being destroyed
+[2019.12.06-15.32.59:306][392]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.32.59:560][392]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TowerDefenseGameMode.TowerDefenseGameMode
+[2019.12.06-15.33.00:386][392]LogSlate: Took 0.011173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.06-15.33.56:006][640]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Spawner.Spawner
+[2019.12.06-15.33.58:098][641]LogSlate: Took 0.021404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.06-15.34.05:238][  6]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/AIRunner.AIRunner
+[2019.12.06-15.34.24:794][986]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/RunnerController.RunnerController
+[2019.12.06-15.34.31:549][296]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.34.36:012][517]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/AI/RunnerTree.RunnerTree
+[2019.12.06-15.34.38:231][587]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/BTT_RunnerMoveTo.BTT_RunnerMoveTo
+[2019.12.06-15.34.41:595][725]LogHttp: Warning: 0000020C400E56C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.34.41:595][725]LogHttp: Warning: 0000020C400E56C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.34.41:595][725]LogHttp: Warning: 0000020C400E56C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.34.41:595][725]LogHttp: Warning: 0000020C400E56C0: libcurl info message cache 1 (Closing connection 2)
+[2019.12.06-15.34.41:611][726]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.35.01:900][781]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.35.10:979][212]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.06-15.35.10:979][212]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.35.13:175][318]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.06-15.35.13:175][318]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.35.27:308][909]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Spawner.Spawner
+[2019.12.06-15.36.41:662][404]LogHttp: Warning: 0000020C22FFEAC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.36.41:662][404]LogHttp: Warning: 0000020C22FFEAC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.36.41:662][404]LogHttp: Warning: 0000020C22FFEAC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.36.41:662][404]LogHttp: Warning: 0000020C22FFEAC0: libcurl info message cache 1 (Closing connection 3)
+[2019.12.06-15.36.41:662][404]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.37.26:644][723]BlueprintLog: New page: Compile Spawner
+[2019.12.06-15.37.27:291][723]LogUObjectHash: Compacting FUObjectHashTables data took  10.85ms
+[2019.12.06-15.37.29:337][812]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.37.29:405][812]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.37.29:405][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-15.37.29:408][812]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:37:29 AM)
+[2019.12.06-15.37.29:410][812]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.06-15.37.29:414][812]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.37.29:465][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051581s)
+[2019.12.06-15.37.29:469][812]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.37.29:470][812]LogPlayLevel: PIE: World Init took: (0.004274s)
+[2019.12.06-15.37.29:470][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.056605s)
+[2019.12.06-15.37.29:665][812]LogUObjectHash: Compacting FUObjectHashTables data took   9.97ms
+[2019.12.06-15.37.29:678][812]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.37.29:715][812]LogInit: FAudioDevice initialized.
+[2019.12.06-15.37.29:735][812]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.06-15.37.29:740][812]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.12.06-12.37.29
+[2019.12.06-15.37.29:741][812]LogWorld: Bringing up level for play took: 0.003134
+[2019.12.06-15.37.29:742][812]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.06-15.37.29:772][812]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.12.06-15.37.29:783][812]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.228
+[2019.12.06-15.37.29:783][812]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.37.33:727][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-15.37.33:946][ 10]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.37.33:948][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.37.33:948][ 10]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.37.33:949][ 10]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.37.33:976][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.37.33:976][ 10]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.37.34:138][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.37.34:213][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   8.38ms
+[2019.12.06-15.37.34:235][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.06-15.37.54:686][124]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.12.06-15.37.54:734][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-15.37.54:807][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.12.06-15.37.55:492][124]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMapDCE5794748AFC88C0DFE09BB821FDA42.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.12.06-15.37.55:557][124]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.823
+[2019.12.06-15.37.55:570][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset" SILENT=true
+[2019.12.06-15.37.55:690][124]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/Spawner98083D7C4CD414C243B4DDA37EBAD069.tmp' to 'D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset'
+[2019.12.06-15.37.55:713][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/RunnerController" FILE="D:/Unreal Projects/TowerDefense/Content/AI/RunnerController.uasset" SILENT=true
+[2019.12.06-15.37.55:772][124]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/RunnerController70FB6FDF403B5E4E22B95CBB28E3F98A.tmp' to 'D:/Unreal Projects/TowerDefense/Content/AI/RunnerController.uasset'
+[2019.12.06-15.38.08:132][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-15.38.41:721][619]LogHttp: Warning: 0000020C315579C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.38.41:721][619]LogHttp: Warning: 0000020C315579C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.38.41:721][619]LogHttp: Warning: 0000020C315579C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.38.41:721][619]LogHttp: Warning: 0000020C315579C0: libcurl info message cache 1 (Closing connection 4)
+[2019.12.06-15.38.41:737][620]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.38.54:364][352]LogUObjectHash: Compacting FUObjectHashTables data took   9.94ms
+[2019.12.06-15.38.54:408][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-15.38.54:484][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.12.06-15.38.54:929][352]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMap8599B02C4BFBDCE526CAA18203A891F7.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.12.06-15.38.55:015][352]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.607
+[2019.12.06-15.38.55:021][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset" SILENT=true
+[2019.12.06-15.38.55:126][352]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/SpawnerA8FCD2784BA6177A61EAEE843B0F670C.tmp' to 'D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset'
+[2019.12.06-15.38.59:374][542]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_DestroyActor' [Elemento não encontrado.]
+[2019.12.06-15.39.26:273][945]LogSlate: Took 0.013602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.06-15.39.41:571][772]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={709F0D99-4D2E-1520-9F7A-58AE622DADCE}
+[2019.12.06-15.40.27:603][450]LogAssetEditorManager: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2019.12.06-15.40.34:047][746]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.40.41:761][ 77]LogHttp: Warning: 0000020C18844900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.40.41:761][ 77]LogHttp: Warning: 0000020C18844900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.40.41:761][ 77]LogHttp: Warning: 0000020C18844900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.40.41:761][ 77]LogHttp: Warning: 0000020C18844900: libcurl info message cache 1 (Closing connection 5)
+[2019.12.06-15.40.41:777][ 78]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.41.07:930][627]BlueprintLog: New page: Compile TowerDefenseGameMode
+[2019.12.06-15.41.08:434][627]LogUObjectHash: Compacting FUObjectHashTables data took   9.13ms
+[2019.12.06-15.41.09:071][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerDefenseGameMode" FILE="D:/Unreal Projects/TowerDefense/Content/TowerDefenseGameMode.uasset" SILENT=true
+[2019.12.06-15.41.09:112][651]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TowerDefenseGameMode013FDC7445D920F0E2493989A2A28330.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TowerDefenseGameMode.uasset'
+[2019.12.06-15.41.33:222][ 35]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/UI/LoseWidget.
+[2019.12.06-15.41.34:752][119]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/LoseWidget.LoseWidget
+[2019.12.06-15.42.41:796][826]LogHttp: Warning: 0000020C35FF34C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.42.41:796][826]LogHttp: Warning: 0000020C35FF34C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.42.41:796][826]LogHttp: Warning: 0000020C35FF34C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.42.41:796][826]LogHttp: Warning: 0000020C35FF34C0: libcurl info message cache 1 (Closing connection 6)
+[2019.12.06-15.42.41:797][826]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.42.50:281][321]BlueprintLog: New page: Compile LoseWidget
+[2019.12.06-15.42.50:909][321]LogUObjectHash: Compacting FUObjectHashTables data took  11.41ms
+[2019.12.06-15.42.57:358][671]BlueprintLog: New page: Compile LoseWidget
+[2019.12.06-15.42.57:472][671]LogUObjectHash: Compacting FUObjectHashTables data took  11.54ms
+[2019.12.06-15.43.10:092][370]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.06-15.43.25:327][226]BlueprintLog: New page: Compile TowerDefenseGameMode
+[2019.12.06-15.43.25:923][226]LogUObjectHash: Compacting FUObjectHashTables data took  11.39ms
+[2019.12.06-15.43.31:989][554]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.43.32:072][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.43.32:072][554]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.06-15.43.32:084][554]LogPlayLevel: [PlayLevel] Compiling Spawner before play...
+[2019.12.06-15.43.32:749][554]LogUObjectHash: Compacting FUObjectHashTables data took  10.71ms
+[2019.12.06-15.43.32:749][554]LogPlayLevel: PlayLevel: Blueprint regeneration took 677 ms (1 blueprints)
+[2019.12.06-15.43.32:749][554]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:43:32 AM)
+[2019.12.06-15.43.32:749][554]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.43.32:773][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023637s)
+[2019.12.06-15.43.32:775][554]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.43.32:776][554]LogPlayLevel: PIE: World Init took: (0.002139s)
+[2019.12.06-15.43.32:776][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026052s)
+[2019.12.06-15.43.32:862][554]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2019.12.06-15.43.32:871][554]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.43.32:904][554]LogInit: FAudioDevice initialized.
+[2019.12.06-15.43.32:918][554]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.06-15.43.32:922][554]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.12.06-12.43.32
+[2019.12.06-15.43.32:922][554]LogWorld: Bringing up level for play took: 0.002311
+[2019.12.06-15.43.32:923][554]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.06-15.43.32:927][554]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.917
+[2019.12.06-15.43.32:927][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.43.55:660][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-15.43.55:881][826]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.43.55:882][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.43.55:882][826]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.43.55:882][826]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.43.55:909][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.43.55:909][826]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.43.56:093][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.43.56:112][826]LogUObjectHash: Compacting FUObjectHashTables data took  14.90ms
+[2019.12.06-15.43.56:175][827]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.06-15.44.41:822][303]LogHttp: Warning: 0000020BFFFBA980: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.44.41:822][303]LogHttp: Warning: 0000020BFFFBA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.44.41:822][303]LogHttp: Warning: 0000020BFFFBA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.44.41:822][303]LogHttp: Warning: 0000020BFFFBA980: libcurl info message cache 1 (Closing connection 7)
+[2019.12.06-15.44.41:839][304]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.44.57:200][170]BlueprintLog: New page: Compile Spawner
+[2019.12.06-15.44.57:831][170]LogUObjectHash: Compacting FUObjectHashTables data took   9.08ms
+[2019.12.06-15.45.05:744][574]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.06-15.45.10:884][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-15.45.11:089][854]LogUObjectHash: Compacting FUObjectHashTables data took  21.81ms
+[2019.12.06-15.45.11:874][854]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMapE01452144095AA5F904AE49ED4E107EF.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.12.06-15.45.11:980][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2019.12.06-15.45.12:438][854]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMap_BuiltData5E5842AC4BE9600B8A6D0BAEACE2AB78.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.12.06-15.45.14:283][940]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.45.14:357][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.45.14:357][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-15.45.14:357][940]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:45:14 AM)
+[2019.12.06-15.45.14:357][940]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.45.14:399][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041274s)
+[2019.12.06-15.45.14:402][940]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.45.14:403][940]LogPlayLevel: PIE: World Init took: (0.003858s)
+[2019.12.06-15.45.14:403][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.045691s)
+[2019.12.06-15.45.14:586][940]LogUObjectHash: Compacting FUObjectHashTables data took  15.10ms
+[2019.12.06-15.45.14:600][940]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.45.14:655][940]LogInit: FAudioDevice initialized.
+[2019.12.06-15.45.14:668][940]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2019.12.06-15.45.14:677][940]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.12.06-12.45.14
+[2019.12.06-15.45.14:678][940]LogWorld: Bringing up level for play took: 0.007351
+[2019.12.06-15.45.14:679][940]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.12.06-15.45.14:686][940]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.676
+[2019.12.06-15.45.14:686][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.45.29:020][637]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.29:340][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.30:025][681]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.33:757][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-15.45.34:750][885]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.34:946][893]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.35:110][900]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.35:449][914]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.35:824][929]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.35:998][936]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.43:794][251]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.43:967][257]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.44:485][276]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.44:846][289]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.45:186][301]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.45:351][307]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1510.000 Y=-1820.000 Z=170.000] for [AIRunner_C]
+[2019.12.06-15.45.49:601][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.45.49:603][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.45.49:603][448]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.45.49:606][448]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.45.49:671][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.45.49:671][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.45.49:868][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.45.49:889][448]LogUObjectHash: Compacting FUObjectHashTables data took  15.37ms
+[2019.12.06-15.45.49:952][449]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.06-15.46.09:515][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-15.46.15:451][821]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/AI/AIRunnerStructure.AIRunnerStructure
+[2019.12.06-15.46.39:291][ 78]LogAssetEditorManager: Opening Asset editor for DataTable /Game/AI/AiRunnerDataTable.AiRunnerDataTable
+[2019.12.06-15.46.41:877][168]LogHttp: Warning: 0000020C4FFA2C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.46.41:877][168]LogHttp: Warning: 0000020C4FFA2C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.46.41:877][168]LogHttp: Warning: 0000020C4FFA2C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.46.41:877][168]LogHttp: Warning: 0000020C4FFA2C00: libcurl info message cache 1 (Closing connection 8)
+[2019.12.06-15.46.41:877][168]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.47.03:203][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AiRunnerDataTable" FILE="D:/Unreal Projects/TowerDefense/Content/AI/AiRunnerDataTable.uasset" SILENT=true
+[2019.12.06-15.47.03:241][ 90]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/AiRunnerDataTable0C6864244F3798A6761B4880AD319C68.tmp' to 'D:/Unreal Projects/TowerDefense/Content/AI/AiRunnerDataTable.uasset'
+[2019.12.06-15.47.05:229][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIRunnerStructure" FILE="D:/Unreal Projects/TowerDefense/Content/AI/AIRunnerStructure.uasset" SILENT=true
+[2019.12.06-15.47.05:257][193]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/AIRunnerStructure8D24B40B43873FE6DC48C19165CBB47B.tmp' to 'D:/Unreal Projects/TowerDefense/Content/AI/AIRunnerStructure.uasset'
+[2019.12.06-15.47.09:353][415]BlueprintLog: New page: Compile LoseWidget
+[2019.12.06-15.47.09:534][415]LogUObjectHash: Compacting FUObjectHashTables data took  13.12ms
+[2019.12.06-15.47.10:440][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/LoseWidget" FILE="D:/Unreal Projects/TowerDefense/Content/UI/LoseWidget.uasset" SILENT=true
+[2019.12.06-15.47.10:466][442]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/LoseWidget4DE1AAD943F4B2F977F7F2B38DD4A17F.tmp' to 'D:/Unreal Projects/TowerDefense/Content/UI/LoseWidget.uasset'
+[2019.12.06-15.47.10:476][442]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/UI/LoseWidget.
+[2019.12.06-15.47.32:776][746]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/AIRunner.AIRunner
+[2019.12.06-15.47.47:559][462]BlueprintLog: New page: Compile AIRunner
+[2019.12.06-15.47.48:258][462]LogUObjectHash: Compacting FUObjectHashTables data took  12.53ms
+[2019.12.06-15.48.40:138][183]BlueprintLog: New page: Compile Spawner
+[2019.12.06-15.48.40:813][183]LogUObjectHash: Compacting FUObjectHashTables data took  12.03ms
+[2019.12.06-15.48.41:952][213]LogHttp: Warning: 0000020C30724400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.48.41:952][213]LogHttp: Warning: 0000020C30724400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.48.41:952][213]LogHttp: Warning: 0000020C30724400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.48.41:952][213]LogHttp: Warning: 0000020C30724400: libcurl info message cache 1 (Closing connection 9)
+[2019.12.06-15.48.41:980][214]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.48.51:049][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset" SILENT=true
+[2019.12.06-15.48.51:136][710]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/Spawner74A2F0AB4157A47C78589A830DD8052F.tmp' to 'D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset'
+[2019.12.06-15.49.32:604][939]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::LessEqual_IntInt' [Elemento não encontrado.]
+[2019.12.06-15.49.39:699][329]BlueprintLog: New page: Compile TowerDefenseGameMode
+[2019.12.06-15.49.40:351][329]LogUObjectHash: Compacting FUObjectHashTables data took  12.64ms
+[2019.12.06-15.49.42:065][404]BlueprintLog: New page: Compile Spawner
+[2019.12.06-15.49.42:652][404]LogUObjectHash: Compacting FUObjectHashTables data took  11.05ms
+[2019.12.06-15.50.08:078][807]BlueprintLog: New page: Compile Spawner
+[2019.12.06-15.50.08:673][807]LogUObjectHash: Compacting FUObjectHashTables data took  11.13ms
+[2019.12.06-15.50.09:495][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset" SILENT=true
+[2019.12.06-15.50.09:571][836]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/Spawner2199842C4D6C5CA960490597B316C56A.tmp' to 'D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset'
+[2019.12.06-15.50.14:561][116]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.50.14:644][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.50.14:644][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-15.50.14:644][116]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:50:14 AM)
+[2019.12.06-15.50.14:645][116]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.50.14:687][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042595s)
+[2019.12.06-15.50.14:691][116]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.50.14:691][116]LogPlayLevel: PIE: World Init took: (0.003762s)
+[2019.12.06-15.50.14:692][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.046909s)
+[2019.12.06-15.50.14:799][116]LogUObjectHash: Compacting FUObjectHashTables data took  10.76ms
+[2019.12.06-15.50.14:807][116]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.50.14:840][116]LogInit: FAudioDevice initialized.
+[2019.12.06-15.50.14:849][116]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2019.12.06-15.50.14:853][116]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.12.06-12.50.14
+[2019.12.06-15.50.14:854][116]LogWorld: Bringing up level for play took: 0.002603
+[2019.12.06-15.50.14:854][116]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.06-15.50.14:858][116]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.848
+[2019.12.06-15.50.14:859][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.50.17:269][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.50.17:270][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.50.17:270][228]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.50.17:271][228]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.50.17:320][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.50.17:321][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.50.17:516][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.50.17:535][228]LogUObjectHash: Compacting FUObjectHashTables data took  15.29ms
+[2019.12.06-15.50.17:601][229]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.06-15.50.23:394][507]LogSlate: Window 'AIRunner' being destroyed
+[2019.12.06-15.50.23:414][507]LogSlate: Window 'AIRunner' being destroyed
+[2019.12.06-15.50.23:515][507]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.50.23:688][507]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.06-15.50.23:688][507]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.50.23:866][507]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.50.23:902][507]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.50.24:087][507]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.06-15.50.24:087][507]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.50.27:018][651]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TowerDefenseGameMode.TowerDefenseGameMode
+[2019.12.06-15.50.32:268][875]BlueprintLog: New page: Compile TowerDefenseGameMode
+[2019.12.06-15.50.32:901][875]LogUObjectHash: Compacting FUObjectHashTables data took  10.59ms
+[2019.12.06-15.50.34:616][959]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.50.34:657][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.50.34:657][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-15.50.34:657][959]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:50:34 AM)
+[2019.12.06-15.50.34:657][959]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.50.34:683][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025194s)
+[2019.12.06-15.50.34:685][959]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.50.34:685][959]LogPlayLevel: PIE: World Init took: (0.002307s)
+[2019.12.06-15.50.34:685][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.027816s)
+[2019.12.06-15.50.34:829][959]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2019.12.06-15.50.34:837][959]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.50.34:867][959]LogInit: FAudioDevice initialized.
+[2019.12.06-15.50.34:877][959]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2019.12.06-15.50.34:881][959]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.12.06-12.50.34
+[2019.12.06-15.50.34:881][959]LogWorld: Bringing up level for play took: 0.002286
+[2019.12.06-15.50.34:882][959]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.06-15.50.34:886][959]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.875
+[2019.12.06-15.50.34:886][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.50.41:998][370]LogHttp: Warning: 0000020BDAEBA0C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.50.41:998][370]LogHttp: Warning: 0000020BDAEBA0C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.50.41:998][370]LogHttp: Warning: 0000020BDAEBA0C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.50.41:998][370]LogHttp: Warning: 0000020BDAEBA0C0: libcurl info message cache 1 (Closing connection 10)
+[2019.12.06-15.50.41:998][370]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.50.45:774][567]LogScript: Warning: Attempted to access AIRunner_C_0 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_0 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.50.45:775][567]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_0 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_0 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.50.46:750][614]LogScript: Warning: Attempted to access AIRunner_C_1 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_1 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.50.46:750][614]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_1 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_1 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.50.47:762][664]LogScript: Warning: Attempted to access AIRunner_C_2 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_2 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.50.47:763][664]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_2 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_2 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.50.48:743][712]LogScript: Warning: Attempted to access AIRunner_C_3 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_3 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.50.48:743][712]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_3 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_3 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.50.49:759][764]LogScript: Warning: Attempted to access AIRunner_C_4 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_4 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.50.49:759][764]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_4 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_4 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.50.50:761][815]LogScript: Warning: Attempted to access AIRunner_C_5 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_5 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.50.50:762][815]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_5 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_5 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.50.51:764][868]LogScript: Warning: Attempted to access AIRunner_C_6 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_6 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.50.51:765][868]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_6 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_6 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.50.52:758][922]LogScript: Warning: Attempted to access AIRunner_C_7 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_7 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.50.52:759][922]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_7 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_7 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.50.53:783][979]LogScript: Warning: Attempted to access AIRunner_C_8 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_8 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.50.53:783][979]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_8 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_8 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.50.54:787][ 32]LogScript: Warning: Attempted to access AIRunner_C_9 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_9 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.50.54:789][ 32]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_9 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_9 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.50.55:331][ 62]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.50.55:332][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.50.55:332][ 62]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.50.55:333][ 62]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.50.55:354][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.50.55:355][ 62]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.50.55:505][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.50.55:519][ 62]LogUObjectHash: Compacting FUObjectHashTables data took  10.94ms
+[2019.12.06-15.50.55:787][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.06-15.51.01:704][378]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Spawner.Spawner
+[2019.12.06-15.51.18:343][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset" SILENT=true
+[2019.12.06-15.51.18:418][244]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/Spawner3B6E36FA4CC74BA39155FE9B0D048F1E.tmp' to 'D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset'
+[2019.12.06-15.51.43:313][680]LogSlate: Window 'Message Log' being destroyed
+[2019.12.06-15.51.43:323][680]LogSlate: Window 'Message Log' being destroyed
+[2019.12.06-15.51.44:385][744]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.51.44:434][744]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.51.44:435][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-15.51.44:435][744]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:51:44 AM)
+[2019.12.06-15.51.44:435][744]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.51.44:470][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035403s)
+[2019.12.06-15.51.44:473][744]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.51.44:474][744]LogPlayLevel: PIE: World Init took: (0.003229s)
+[2019.12.06-15.51.44:474][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.039072s)
+[2019.12.06-15.51.44:561][744]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2019.12.06-15.51.44:570][744]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.51.44:601][744]LogInit: FAudioDevice initialized.
+[2019.12.06-15.51.44:611][744]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2019.12.06-15.51.44:615][744]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.12.06-12.51.44
+[2019.12.06-15.51.44:615][744]LogWorld: Bringing up level for play took: 0.002352
+[2019.12.06-15.51.44:617][744]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.12.06-15.51.44:620][744]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.61
+[2019.12.06-15.51.44:620][744]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.51.54:809][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-15.52.06:134][912]LogScript: Warning: Attempted to access AIRunner_C_0 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_0 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.52.06:134][912]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_0 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_0 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.52.07:134][958]LogScript: Warning: Attempted to access AIRunner_C_1 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_1 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.52.07:135][958]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_1 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_1 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.52.07:373][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-15.52.14:167][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.06-15.52.14:375][376]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.52.14:376][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.52.14:376][376]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.52.14:377][376]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.52.14:443][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.52.14:443][376]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.52.14:587][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.52.14:602][376]LogUObjectHash: Compacting FUObjectHashTables data took  10.33ms
+[2019.12.06-15.52.14:840][377]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.06-15.52.28:806][ 99]BlueprintLog: New page: Compile Spawner
+[2019.12.06-15.52.29:253][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2019.12.06-15.52.35:864][460]LogSlate: Window 'Message Log' being destroyed
+[2019.12.06-15.52.35:878][460]LogSlate: Window 'Message Log' being destroyed
+[2019.12.06-15.52.37:131][533]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.52.37:191][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.52.37:191][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-15.52.37:192][533]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:52:37 AM)
+[2019.12.06-15.52.37:192][533]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.52.37:228][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036262s)
+[2019.12.06-15.52.37:232][533]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.52.37:232][533]LogPlayLevel: PIE: World Init took: (0.003931s)
+[2019.12.06-15.52.37:232][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.040657s)
+[2019.12.06-15.52.37:321][533]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2019.12.06-15.52.37:329][533]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.52.37:360][533]LogInit: FAudioDevice initialized.
+[2019.12.06-15.52.37:375][533]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2019.12.06-15.52.37:379][533]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.12.06-12.52.37
+[2019.12.06-15.52.37:380][533]LogWorld: Bringing up level for play took: 0.002487
+[2019.12.06-15.52.37:380][533]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.12.06-15.52.37:384][533]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.627
+[2019.12.06-15.52.37:385][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.52.42:039][778]LogHttp: Warning: 0000020BE4F60400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.52.42:039][778]LogHttp: Warning: 0000020BE4F60400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.52.42:039][778]LogHttp: Warning: 0000020BE4F60400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.52.42:039][778]LogHttp: Warning: 0000020BE4F60400: libcurl info message cache 1 (Closing connection 11)
+[2019.12.06-15.52.42:039][778]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.52.50:647][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.52.50:648][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.52.50:648][195]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.52.50:649][195]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.52.50:675][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.52.50:676][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.52.50:807][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.52.50:820][195]LogUObjectHash: Compacting FUObjectHashTables data took  10.57ms
+[2019.12.06-15.52.50:877][196]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.06-15.53.05:750][958]BlueprintLog: New page: Compile Spawner
+[2019.12.06-15.53.06:156][958]LogUObjectHash: Compacting FUObjectHashTables data took   8.16ms
+[2019.12.06-15.53.06:771][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset" SILENT=true
+[2019.12.06-15.53.06:851][976]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/Spawner393F77B84F12CB23C69CA0A653AF7C79.tmp' to 'D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset'
+[2019.12.06-15.53.21:645][784]BlueprintLog: New page: Compile Spawner
+[2019.12.06-15.53.22:056][784]LogUObjectHash: Compacting FUObjectHashTables data took   8.79ms
+[2019.12.06-15.53.32:796][374]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.53.32:865][374]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.53.32:866][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-15.53.32:866][374]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:53:32 AM)
+[2019.12.06-15.53.32:866][374]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.53.32:907][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040965s)
+[2019.12.06-15.53.32:911][374]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.53.32:912][374]LogPlayLevel: PIE: World Init took: (0.004274s)
+[2019.12.06-15.53.32:912][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.045869s)
+[2019.12.06-15.53.33:002][374]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2019.12.06-15.53.33:010][374]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.53.33:040][374]LogInit: FAudioDevice initialized.
+[2019.12.06-15.53.33:056][374]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2019.12.06-15.53.33:060][374]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.12.06-12.53.33
+[2019.12.06-15.53.33:060][374]LogWorld: Bringing up level for play took: 0.002360
+[2019.12.06-15.53.33:060][374]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.12.06-15.53.33:064][374]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.054
+[2019.12.06-15.53.33:065][374]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.53.44:571][935]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_LowerLives', from offset 969
+[2019.12.06-15.53.44:572][935]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/AI/Spawner.Spawner_C:BndEvt__FinishLine_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner
+
+[2019.12.06-15.54.05:603][935]LogScript: Warning: Attempted to access AIRunner_C_0 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_0 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.54.05:603][935]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_0 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_0 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.54.05:604][935]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 220
+[2019.12.06-15.54.05:604][935]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/AI/Spawner.Spawner_C:BndEvt__FinishLine_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner
+	Function /Game/TowerDefenseGameMode.TowerDefenseGameMode_C:LowerLives
+	Function /Game/TowerDefenseGameMode.TowerDefenseGameMode_C:ExecuteUbergraph_TowerDefenseGameMode
+
+[2019.12.06-15.54.13:731][968]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_LowerLives', from offset 969
+[2019.12.06-15.54.13:731][968]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/AI/Spawner.Spawner_C:BndEvt__FinishLine_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner
+
+[2019.12.06-15.54.16:215][968]LogScript: Warning: Attempted to access AIRunner_C_1 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_1 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.54.16:215][968]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_1 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_1 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.54.16:215][968]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 220
+[2019.12.06-15.54.16:215][968]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/AI/Spawner.Spawner_C:BndEvt__FinishLine_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner
+	Function /Game/TowerDefenseGameMode.TowerDefenseGameMode_C:LowerLives
+	Function /Game/TowerDefenseGameMode.TowerDefenseGameMode_C:ExecuteUbergraph_TowerDefenseGameMode
+
+[2019.12.06-15.54.26:851][996]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_LowerLives', from offset 969
+[2019.12.06-15.54.26:851][996]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/AI/Spawner.Spawner_C:BndEvt__FinishLine_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner
+
+[2019.12.06-15.54.28:972][996]LogScript: Warning: Attempted to access AIRunner_C_2 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_2 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.54.28:972][996]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_2 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_2 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.54.28:972][996]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 157
+[2019.12.06-15.54.28:972][996]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/AI/Spawner.Spawner_C:BndEvt__FinishLine_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner
+	Function /Game/TowerDefenseGameMode.TowerDefenseGameMode_C:LowerLives
+	Function /Game/TowerDefenseGameMode.TowerDefenseGameMode_C:ExecuteUbergraph_TowerDefenseGameMode
+
+[2019.12.06-15.54.39:828][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_LowerLives', from offset 969
+[2019.12.06-15.54.39:828][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/AI/Spawner.Spawner_C:BndEvt__FinishLine_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner
+
+[2019.12.06-15.54.44:846][ 26]LogScript: Warning: Attempted to access AIRunner_C_3 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_3 is pending kill
+	Spawner_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.Spawner_2
+	Function /Game/AI/Spawner.Spawner_C:ExecuteUbergraph_Spawner:03F7
+[2019.12.06-15.54.44:847][ 26]PIE: Error: Blueprint Runtime Error: "Attempted to access AIRunner_C_3 via property K2Node_DynamicCast_AsAIRunner_1, but AIRunner_C_3 is pending kill". Blueprint:  Spawner Function:  Execute Ubergraph Spawner Graph:  EventGraph Node:  Lower Lives
+[2019.12.06-15.54.44:849][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.54.44:850][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.54.44:850][ 26]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.54.44:851][ 26]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.54.44:882][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.54.44:882][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.54.44:971][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.54.44:979][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2019.12.06-15.54.45:160][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.12.06-15.54.45:251][ 28]LogHttp: Warning: 0000020BE4F61D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.54.45:251][ 28]LogHttp: Warning: 0000020BE4F61D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.54.45:251][ 28]LogHttp: Warning: 0000020BE4F61D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.54.45:251][ 28]LogHttp: Warning: 0000020BE4F61D00: libcurl info message cache 1 (Closing connection 12)
+[2019.12.06-15.54.45:251][ 28]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.54.46:594][ 80]LogSlate: Window 'Message Log' being destroyed
+[2019.12.06-15.54.46:620][ 80]LogSlate: Window 'Message Log' being destroyed
+[2019.12.06-15.56.04:777][578]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.56.04:845][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.56.04:845][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-15.56.04:845][578]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:56:04 AM)
+[2019.12.06-15.56.04:845][578]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.56.04:881][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034685s)
+[2019.12.06-15.56.04:884][578]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.56.04:885][578]LogPlayLevel: PIE: World Init took: (0.003880s)
+[2019.12.06-15.56.04:886][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.039182s)
+[2019.12.06-15.56.04:971][578]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.06-15.56.04:979][578]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.56.05:011][578]LogInit: FAudioDevice initialized.
+[2019.12.06-15.56.05:022][578]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2019.12.06-15.56.05:025][578]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.06-12.56.05
+[2019.12.06-15.56.05:026][578]LogWorld: Bringing up level for play took: 0.002197
+[2019.12.06-15.56.05:026][578]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.12.06-15.56.05:030][578]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.02
+[2019.12.06-15.56.05:030][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.56.10:141][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.56.10:143][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.56.10:143][831]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.56.10:144][831]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.56.10:210][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.56.10:210][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.56.10:358][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.56.10:371][831]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2019.12.06-15.56.10:454][832]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.12.06-15.56.40:575][543]BlueprintLog: New page: Compile Spawner
+[2019.12.06-15.56.40:969][543]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2019.12.06-15.56.42:838][630]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.56.42:877][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.56.42:877][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-15.56.42:878][630]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:56:42 AM)
+[2019.12.06-15.56.42:878][630]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.56.42:899][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020460s)
+[2019.12.06-15.56.42:901][630]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.56.42:901][630]LogPlayLevel: PIE: World Init took: (0.002395s)
+[2019.12.06-15.56.42:901][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023158s)
+[2019.12.06-15.56.42:976][630]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2019.12.06-15.56.42:985][630]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.56.43:019][630]LogInit: FAudioDevice initialized.
+[2019.12.06-15.56.43:034][630]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2019.12.06-15.56.43:037][630]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.06-12.56.43
+[2019.12.06-15.56.43:038][630]LogWorld: Bringing up level for play took: 0.002390
+[2019.12.06-15.56.43:038][630]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.12.06-15.56.43:042][630]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.032
+[2019.12.06-15.56.43:043][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.56.45:279][739]LogHttp: Warning: 0000020C3B5CD6C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.06-15.56.45:279][739]LogHttp: Warning: 0000020C3B5CD6C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.12.06-15.56.45:280][739]LogHttp: Warning: 0000020C3B5CD6C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.12.06-15.56.45:280][739]LogHttp: Warning: 0000020C3B5CD6C0: libcurl info message cache 1 (Closing connection 13)
+[2019.12.06-15.56.45:298][740]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC4E502E-4D95-0E67-E911-BBBE15325BE2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.06-15.57.03:918][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.57.03:919][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.57.03:919][657]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.57.03:921][657]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.57.03:973][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.57.03:974][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.57.04:142][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.57.04:156][657]LogUObjectHash: Compacting FUObjectHashTables data took  10.48ms
+[2019.12.06-15.57.04:213][658]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.12.06-15.57.27:606][945]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.57.27:698][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.57.27:698][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-15.57.27:698][945]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:57:27 AM)
+[2019.12.06-15.57.27:699][945]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.57.27:740][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040462s)
+[2019.12.06-15.57.27:744][945]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.57.27:744][945]LogPlayLevel: PIE: World Init took: (0.004638s)
+[2019.12.06-15.57.27:745][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.045612s)
+[2019.12.06-15.57.27:817][945]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2019.12.06-15.57.27:825][945]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.57.27:855][945]LogInit: FAudioDevice initialized.
+[2019.12.06-15.57.27:865][945]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2019.12.06-15.57.27:869][945]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.06-12.57.27
+[2019.12.06-15.57.27:870][945]LogWorld: Bringing up level for play took: 0.002447
+[2019.12.06-15.57.27:870][945]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.12.06-15.57.27:874][945]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.137
+[2019.12.06-15.57.27:874][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.57.32:275][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.57.32:276][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.57.32:276][185]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.57.32:276][185]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.57.32:315][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.57.32:315][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.57.32:431][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.57.32:442][185]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2019.12.06-15.57.32:494][186]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.12.06-15.57.40:112][500]BlueprintLog: New page: Compile Spawner
+[2019.12.06-15.57.40:516][500]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2019.12.06-15.57.45:741][801]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.06-15.57.45:800][801]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.57.45:801][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.06-15.57.45:801][801]PIE: New page: PIE session: TopDownExampleMap (Dec 6, 2019, 10:57:45 AM)
+[2019.12.06-15.57.45:801][801]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.57.45:836][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034541s)
+[2019.12.06-15.57.45:839][801]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.06-15.57.45:840][801]LogPlayLevel: PIE: World Init took: (0.003570s)
+[2019.12.06-15.57.45:840][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.038567s)
+[2019.12.06-15.57.45:918][801]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2019.12.06-15.57.45:926][801]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.06-15.57.45:959][801]LogInit: FAudioDevice initialized.
+[2019.12.06-15.57.45:973][801]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2019.12.06-15.57.45:977][801]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.06-12.57.45
+[2019.12.06-15.57.45:978][801]LogWorld: Bringing up level for play took: 0.002460
+[2019.12.06-15.57.45:978][801]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.12.06-15.57.45:982][801]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.029
+[2019.12.06-15.57.45:982][801]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.58.28:648][ 65]LogUObjectHash: Compacting FUObjectHashTables data took  11.18ms
+[2019.12.06-15.58.30:576][ 65]LogSlate: Window 'Save Content' being destroyed
+[2019.12.06-15.58.30:760][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIRunner" FILE="D:/Unreal Projects/TowerDefense/Content/AI/AIRunner.uasset" SILENT=true
+[2019.12.06-15.58.30:912][ 65]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/AIRunner8AF0DE4943F6063306052891E056E531.tmp' to 'D:/Unreal Projects/TowerDefense/Content/AI/AIRunner.uasset'
+[2019.12.06-15.58.30:918][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Spawner" FILE="D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset" SILENT=true
+[2019.12.06-15.58.31:078][ 65]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/SpawnerD0BEE36548B50AFE37E4B28AA319540F.tmp' to 'D:/Unreal Projects/TowerDefense/Content/AI/Spawner.uasset'
+[2019.12.06-15.58.31:081][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.06-15.58.31:163][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.12.06-15.58.31:559][ 65]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMapB81A3D984EC42A2665B79D896FD2260B.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.12.06-15.58.31:617][ 65]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.537
+[2019.12.06-15.58.31:618][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerDefenseGameMode" FILE="D:/Unreal Projects/TowerDefense/Content/TowerDefenseGameMode.uasset" SILENT=true
+[2019.12.06-15.58.31:668][ 65]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TowerDefenseGameModeAF40119B4DAD3791055A23AF3E3E313D.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TowerDefenseGameMode.uasset'
+[2019.12.06-15.58.31:989][ 65]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.58.32:095][ 65]LogSlate: Window 'TowerDefenseGameMode' being destroyed
+[2019.12.06-15.58.32:142][ 65]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.06-15.58.32:142][ 65]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.58.32:243][ 65]LogSlate: Window 'TowerDefense - Unreal Editor' being destroyed
+[2019.12.06-15.58.32:479][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.58.32:480][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.58.32:480][ 65]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.06-15.58.32:481][ 65]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.58.32:495][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.06-15.58.32:496][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.06-15.58.32:620][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.06-15.58.32:652][ 65]LogUObjectHash: Compacting FUObjectHashTables data took  12.14ms
+[2019.12.06-15.58.32:870][ 66]Cmd: QUIT_EDITOR
+[2019.12.06-15.58.33:405][ 66]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.06-15.58.33:437][ 66]LogExit: Preparing to exit.
+[2019.12.06-15.58.34:423][ 66]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.58.34:430][ 66]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.58.34:438][ 66]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.58.34:445][ 66]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.58.34:452][ 66]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.58.34:460][ 66]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.58.34:468][ 66]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.58.34:551][ 66]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.06-15.58.34:576][ 66]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.06-15.58.34:576][ 66]LogExit: Editor shut down
+[2019.12.06-15.58.34:577][ 66]LogExit: Transaction tracking system shut down

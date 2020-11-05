@@ -1,0 +1,1713 @@
+﻿Log file open, 12/03/19 05:07:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TowerDefense
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.148459
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.03-08.07.21:539][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.03-08.07.21:539][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.03-08.07.21:539][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.03-08.07.21:539][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.03-08.07.21:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.03-08.07.21:540][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.03-08.07.21:541][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.03-08.07.21:541][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.03-08.07.21:545][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:545][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-08.07.21:545][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.03-08.07.21:545][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:545][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.03-08.07.21:545][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:545][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-08.07.21:545][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-08.07.21:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-08.07.21:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.03-08.07.21:548][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-08.07.21:549][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-08.07.21:549][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-08.07.21:549][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-08.07.21:549][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-08.07.21:549][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-08.07.21:549][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-08.07.21:549][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-08.07.21:549][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-08.07.21:549][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-08.07.21:549][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:549][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-08.07.21:549][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-08.07.21:549][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-08.07.21:549][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.03-08.07.21:557][  0]LogHAL: Display: Platform has ~ 8 GB [8459489280 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.03-08.07.21:557][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.03-08.07.21:557][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:557][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.03-08.07.21:557][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.03-08.07.21:557][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:557][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.03-08.07.21:557][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:557][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.03-08.07.21:557][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.03-08.07.21:557][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.03-08.07.21:557][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.03-08.07.21:557][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.03-08.07.21:557][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.03-08.07.21:557][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.03-08.07.21:557][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.03-08.07.21:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.03-08.07.21:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.03-08.07.21:560][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.03-08.07.21:561][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Scalability.ini]
+[2019.12.03-08.07.21:561][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.03-08.07.21:561][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.03-08.07.21:561][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.03-08.07.21:561][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.03-08.07.21:561][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.03-08.07.21:561][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/TowerDefense/Saved/Config/Windows/Engine.ini]
+[2019.12.03-08.07.21:561][  0]LogInit: Computer: DESKTOP-9KFPL0D
+[2019.12.03-08.07.21:561][  0]LogInit: User: Andre
+[2019.12.03-08.07.21:562][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.03-08.07.21:562][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.03-08.07.21:562][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.03-08.07.21:562][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.03-08.07.21:562][  0]LogMemory: Process Physical Memory: 100.67 MB used, 100.68 MB peak
+[2019.12.03-08.07.21:562][  0]LogMemory: Process Virtual Memory: 100.42 MB used, 100.42 MB peak
+[2019.12.03-08.07.21:562][  0]LogMemory: Physical Memory: 3425.01 MB used,  4642.59 MB free, 8067.60 MB total
+[2019.12.03-08.07.21:562][  0]LogMemory: Virtual Memory: 4682.91 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.12.03-08.07.21:567][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.03-08.07.21:621][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.12.03-08.07.21:621][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.12.03-08.07.21:980][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.03-08.07.22:060][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.03-08.07.22:060][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.03-08.07.22:456][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.03-08.07.22:456][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.03-08.07.22:576][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX130' (Feature Level 11_0)
+[2019.12.03-08.07.22:576][  0]LogD3D11RHI:       2010/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.03-08.07.22:595][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.12.03-08.07.22:595][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.03-08.07.22:599][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.03-08.07.22:599][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.03-08.07.22:599][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.03-08.07.22:658][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.03-08.07.22:658][  0]LogD3D11RHI:     GPU DeviceId: 0x174d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.03-08.07.22:658][  0]LogWindows: EnumDisplayDevices:
+[2019.12.03-08.07.22:658][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.12.03-08.07.22:659][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.12.03-08.07.22:659][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.12.03-08.07.22:660][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.12.03-08.07.22:660][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX130
+[2019.12.03-08.07.22:660][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.03-08.07.22:660][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.03-08.07.22:660][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.12.03-08.07.22:734][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.03-08.07.22:751][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.03-08.07.23:388][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.03-08.07.23:410][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.03-08.07.23:427][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.03-08.07.23:445][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.03-08.07.23:463][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.03-08.07.23:480][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.03-08.07.23:497][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.03-08.07.23:517][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.03-08.07.23:526][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.03-08.07.23:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.03-08.07.23:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.03-08.07.23:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.03-08.07.23:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.03-08.07.23:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.03-08.07.23:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.03-08.07.23:592][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.03-08.07.23:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.03-08.07.23:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.03-08.07.23:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.03-08.07.23:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.03-08.07.23:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.03-08.07.23:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.03-08.07.23:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.03-08.07.23:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.03-08.07.23:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.03-08.07.23:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.03-08.07.23:593][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.03-08.07.23:596][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.03-08.07.23:636][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.03-08.07.23:637][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.03-08.07.23:665][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.03-08.07.23:665][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.03-08.07.23:681][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.03-08.07.23:695][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.03-08.07.23:708][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.03-08.07.23:723][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.03-08.07.23:768][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.03-08.07.23:768][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.03-08.07.23:768][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.03-08.07.23:786][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.03-08.07.23:897][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (D:/Unreal Projects/TowerDefense/Intermediate/Shaders/WorkingDirectory/8432/).
+[2019.12.03-08.07.23:898][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Andre.DESKTOP-9KFPL0D/AppData/Local/Temp/UnrealShaderWorkingDir/21068E3E40A6358CFD7FDBA93E00F54E/'.
+[2019.12.03-08.07.23:902][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.03-08.07.23:902][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.03-08.07.23:902][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.03-08.07.25:172][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.03-08.07.25:260][  0]LogDerivedDataCache: Loaded boot cache 0.09s 73MB C:/Users/Andre.DESKTOP-9KFPL0D/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.03-08.07.25:260][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Andre.DESKTOP-9KFPL0D/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.03-08.07.25:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/TowerDefense/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.03-08.07.25:261][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.03-08.07.25:261][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/TowerDefense/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-08.07.25:261][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.03-08.07.25:284][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.03-08.07.25:284][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.03-08.07.25:284][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.03-08.07.25:286][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Andre.DESKTOP-9KFPL0D/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.03-08.07.25:286][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.03-08.07.25:286][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.03-08.07.25:328][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.03-08.07.25:334][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.03-08.07.25:334][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.03-08.07.25:441][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
+[2019.12.03-08.07.25:949][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.03-08.07.26:247][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.03-08.07.26:247][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.03-08.07.26:247][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.03-08.07.26:247][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.03-08.07.26:247][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.03-08.07.26:265][  0]LogNetVersion: TowerDefense 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 240942927)
+[2019.12.03-08.07.27:070][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.082858 seconds
+[2019.12.03-08.07.27:081][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.03-08.07.27:081][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.03-08.07.27:082][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.03-08.07.28:709][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.03-08.07.28:713][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.03-08.07.28:804][  0]SourceControl: Source control is disabled
+[2019.12.03-08.07.28:804][  0]SourceControl: Source control is disabled
+[2019.12.03-08.07.28:807][  0]SourceControl: Source control is disabled
+[2019.12.03-08.07.28:808][  0]SourceControl: Source control is disabled
+[2019.12.03-08.07.28:952][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.03-08.07.29:166][  0]LogOcInput: OculusInput pre-init called
+[2019.12.03-08.07.29:177][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.03-08.07.29:177][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.03-08.07.29:311][  0]LogEngine: Initializing Engine...
+[2019.12.03-08.07.29:313][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.03-08.07.29:314][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.03-08.07.29:745][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.03-08.07.29:773][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.03-08.07.29:813][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-08.07.30:362][  0]LogInit: FAudioDevice initialized.
+[2019.12.03-08.07.30:363][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.03-08.07.30:449][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/Andre.DESKTOP-9KFPL0D/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.03-08.07.30:471][  0]LogInit: Texture streaming: Enabled
+[2019.12.03-08.07.30:507][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.03-08.07.30:507][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.03-08.07.30:508][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.03-08.07.30:611][  0]LogInit: Transaction tracking system initialized
+[2019.12.03-08.07.30:682][  0]BlueprintLog: New page: Editor Load
+[2019.12.03-08.07.30:841][  0]LocalizationService: Localization service is disabled
+[2019.12.03-08.07.31:303][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TowerDefense/Content/' took 0.01s
+[2019.12.03-08.07.31:303][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.03-08.07.31:303][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.03-08.07.31:653][  0]SourceControl: Source control is disabled
+[2019.12.03-08.07.31:654][  0]Cmd: MAP LOAD FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.03-08.07.31:654][  0]LightingResults: New page: Lighting Build
+[2019.12.03-08.07.31:660][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.07.31:660][  0]MapCheck: New page: Map Check
+[2019.12.03-08.07.31:660][  0]LightingResults: New page: Lighting Build
+[2019.12.03-08.07.31:712][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.12.03-08.07.34:071][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.03-08.07.34:093][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.03-08.07.34:153][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.12.03-08.07.34:153][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.03-08.07.34:153][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2019.12.03-08.07.34:154][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 2.500
+[2019.12.03-08.07.34:325][  0]LogCollectionManager: Loaded 0 collections in 0.004050 seconds
+[2019.12.03-08.07.34:360][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TowerDefense/Saved/Collections/' took 0.00s
+[2019.12.03-08.07.34:360][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TowerDefense/Content/Developers/Andre/Collections/' took 0.00s
+[2019.12.03-08.07.34:360][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/TowerDefense/Content/Collections/' took 0.00s
+[2019.12.03-08.07.34:360][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2019.12.03-08.07.34:380][  0]LogContentBrowser: Native class hierarchy populated in 0.0165 seconds. Added 2863 classes and 680 folders.
+[2019.12.03-08.07.34:400][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.03-08.07.35:016][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.03-08.07.35:084][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.07.35:099][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.07.35:114][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.07.35:127][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.07.35:148][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.03-08.07.35:408][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.03-08.07.35:413][  0]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.03-08.07.35:431][  0]LogSlate: Took 0.013715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.03-08.07.35:652][  0]LogRenderer: Reallocating scene render targets to support 864x612 Format 10 NumSamples 1 (Frame:1).
+[2019.12.03-08.07.35:847][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.03-08.07.35:847][  0]LogLoad: (Engine Initialization) Total time: 17.48 seconds
+[2019.12.03-08.07.35:847][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.03-08.07.35:928][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.03-08.07.35:980][  0]LogSlate: Took 0.009751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-08.07.36:655][  6]LogAssetRegistry: Asset discovery search completed in 11.2149 seconds
+[2019.12.03-08.07.36:662][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2019.12.03-08.07.36:662][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000104 seconds (updated 0 objects)
+[2019.12.03-08.08.35:859][286]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={C7CCB2F8-413F-E056-6076-7981EE69B20F}
+[2019.12.03-08.08.43:887][768]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.03-08.08.43:980][768]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-08.08.45:188][838]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-08.08.45:217][838]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.08.45:217][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-08.08.45:219][838]PIE: New page: PIE session: TopDownExampleMap (Dec 3, 2019, 3:08:45 AM)
+[2019.12.03-08.08.45:221][838]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.03-08.08.45:223][838]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-08.08.45:256][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032230s)
+[2019.12.03-08.08.45:258][838]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.03-08.08.45:259][838]LogPlayLevel: PIE: World Init took: (0.002936s)
+[2019.12.03-08.08.45:259][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.035616s)
+[2019.12.03-08.08.45:325][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.03-08.08.45:340][838]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-08.08.45:384][838]LogInit: FAudioDevice initialized.
+[2019.12.03-08.08.45:401][838]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.03-08.08.45:407][838]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.03-05.08.45
+[2019.12.03-08.08.45:410][838]LogWorld: Bringing up level for play took: 0.005320
+[2019.12.03-08.08.45:410][838]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.12.03-08.08.45:434][838]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.12.03-08.08.45:455][838]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.106
+[2019.12.03-08.08.45:456][838]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.08.50:990][146]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.08.50:993][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.08.50:993][146]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-08.08.50:996][146]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.08.51:025][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-08.08.51:025][146]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.08.51:084][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.08.51:090][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.12.03-08.08.51:118][147]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.03-08.08.53:571][285]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-08.08.53:598][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.08.53:598][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-08.08.53:598][285]PIE: New page: PIE session: TopDownExampleMap (Dec 3, 2019, 3:08:53 AM)
+[2019.12.03-08.08.53:598][285]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-08.08.53:622][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023532s)
+[2019.12.03-08.08.53:624][285]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.03-08.08.53:625][285]LogPlayLevel: PIE: World Init took: (0.002701s)
+[2019.12.03-08.08.53:625][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.026535s)
+[2019.12.03-08.08.53:686][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.12.03-08.08.53:693][285]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-08.08.53:728][285]LogInit: FAudioDevice initialized.
+[2019.12.03-08.08.53:743][285]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.03-08.08.53:747][285]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.03-05.08.53
+[2019.12.03-08.08.53:747][285]LogWorld: Bringing up level for play took: 0.002335
+[2019.12.03-08.08.53:748][285]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.12.03-08.08.53:761][285]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.411
+[2019.12.03-08.08.53:761][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.09.03:056][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.09.03:057][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.09.03:057][842]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-08.09.03:058][842]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.09.03:087][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-08.09.03:088][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.09.03:152][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.09.03:157][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.12.03-08.09.03:178][843]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.03-08.14.05:640][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.14.06:856][383]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.03-08.14.06:875][383]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/PlayerCameraPawn.PlayerCameraPawn
+[2019.12.03-08.14.07:566][383]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2019.12.03-08.14.09:350][383]LogSlate: Took 0.009346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.03-08.14.09:637][384]LogSlate: Took 0.008625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.03-08.15.25:866][859]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::FClamp' [Elemento não encontrado.]
+[2019.12.03-08.15.36:668][506]BlueprintLog: New page: Compile PlayerCameraPawn
+[2019.12.03-08.15.37:060][506]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2019.12.03-08.15.38:152][554]LogSlate: Window 'PlayerCameraPawn' being destroyed
+[2019.12.03-08.15.38:175][554]LogSlate: Window 'PlayerCameraPawn' being destroyed
+[2019.12.03-08.15.38:176][554]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.15.39:251][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.15.42:502][702]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.03-08.17.37:332][595]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={0F5FB727-4FF1-FF3E-2EE9-C590E74A7E0D}
+[2019.12.03-08.17.38:144][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.17.45:664][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.17.54:266][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.03-08.17.56:261][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.03-08.17.58:082][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.03-08.18.01:294][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.03-08.18.03:312][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.18.43:888][295]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/CameraClamp.CameraClamp
+[2019.12.03-08.18.44:550][295]LogRenderer: Reallocating scene render targets to support 916x612 Format 10 NumSamples 1 (Frame:1).
+[2019.12.03-08.18.45:129][314]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2019.12.03-08.18.45:505][314]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMap_Auto1D4054EEC41409717DB8629AA9C85DEA9.tmp' to 'D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2019.12.03-08.18.45:510][314]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.448
+[2019.12.03-08.18.45:510][314]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.448
+[2019.12.03-08.18.45:512][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/PlayerCameraPawn] ([1] browsable assets)...
+[2019.12.03-08.18.45:513][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/PlayerCameraPawn]
+[2019.12.03-08.18.45:513][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCameraPawn" FILE="D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Player/PlayerCameraPawn_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.12.03-08.18.45:755][314]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/PlayerCameraPawn_Auto1458C5E694EAAD6624C97FCB9151AEE1B.tmp' to 'D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Player/PlayerCameraPawn_Auto1.uasset'
+[2019.12.03-08.18.45:756][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/CameraClamp] ([1] browsable assets)...
+[2019.12.03-08.18.45:756][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/CameraClamp]
+[2019.12.03-08.18.45:756][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/CameraClamp" FILE="D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Player/CameraClamp_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.12.03-08.18.45:775][314]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/CameraClamp_Auto13BEEE6E4494F8701FC3354B8A56E036E.tmp' to 'D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Player/CameraClamp_Auto1.uasset'
+[2019.12.03-08.18.45:840][314]LogFileHelpers: Auto-saving content packages took 0.327
+[2019.12.03-08.18.57:295][969]LogSlate: Took 0.013924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.03-08.19.08:525][640]BlueprintLog: New page: Compile CameraClamp
+[2019.12.03-08.19.08:881][640]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2019.12.03-08.19.23:091][482]BlueprintLog: New page: Compile CameraClamp
+[2019.12.03-08.19.23:450][482]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2019.12.03-08.19.33:720][ 75]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Spawner.Spawner
+[2019.12.03-08.20.04:822][854]BlueprintLog: New page: Compile CameraClamp
+[2019.12.03-08.20.04:825][854]LogClass: Warning: Type mismatch in -XClamp of CameraClamp_C - Previous (FloatProperty) Current(StructProperty) for package:  FObjectReader
+[2019.12.03-08.20.05:180][854]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2019.12.03-08.20.10:021][129]BlueprintLog: New page: Compile CameraClamp
+[2019.12.03-08.20.10:384][129]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2019.12.03-08.23.33:847][621]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2019.12.03-08.23.33:904][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-08.23.33:967][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.12.03-08.23.34:318][621]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMapCDC08D0041B69E47376C2C97FBBBC9DF.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.12.03-08.23.34:377][621]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.474
+[2019.12.03-08.23.34:388][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCameraPawn" FILE="D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset" SILENT=true
+[2019.12.03-08.23.34:458][621]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/PlayerCameraPawnF0EA77BA4BB3B1F204D4FEA5ECDC3FA7.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset'
+[2019.12.03-08.23.34:479][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/CameraClamp" FILE="D:/Unreal Projects/TowerDefense/Content/Player/CameraClamp.uasset" SILENT=true
+[2019.12.03-08.23.34:500][621]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/CameraClampA8D060E641F75DAB0A7FC8A811BBB13F.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Player/CameraClamp.uasset'
+[2019.12.03-08.23.44:311][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2019.12.03-08.23.51:001][430]LogEditorViewport: Clicking on Actor (LMB): CameraClamp_C (CameraClamp)
+[2019.12.03-08.23.57:942][842]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.03-08.24.02:908][128]LogEditorViewport: Clicking on Actor (LMB): CameraClamp_C (CameraClamp)
+[2019.12.03-08.24.04:899][245]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.12.03-08.24.10:799][592]LogEditorViewport: Clicking on Actor (LMB): CameraClamp_C (CameraClamp)
+[2019.12.03-08.24.15:009][840]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.12.03-08.24.16:311][915]LogEditorViewport: Clicking on Actor (LMB): CameraClamp_C (CameraClamp)
+[2019.12.03-08.25.02:635][614]LogEditorViewport: Clicking on Actor (LMB): CameraClamp_C (CameraClamp)
+[2019.12.03-08.25.09:857][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.25.18:231][545]LogEditorViewport: Clicking on Actor (LMB): CameraClamp_C (CameraClamp)
+[2019.12.03-08.25.19:008][590]LogEditorViewport: Clicking on Actor (LMB): CameraClamp_C (CameraClamp)
+[2019.12.03-08.25.21:977][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.25.25:213][935]BlueprintLog: New page: Compile CameraClamp
+[2019.12.03-08.25.25:573][935]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2019.12.03-08.25.41:848][889]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.03-08.25.41:878][889]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2019.12.03-08.25.43:902][  7]LogEditorViewport: Clicking on Actor (LMB): CameraClamp_C (CameraClamp)
+[2019.12.03-08.26.16:679][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.26.27:638][562]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.03-08.26.30:885][740]LogEditorViewport: Clicking on Actor (LMB): CameraClamp_C (CameraClamp)
+[2019.12.03-08.27.24:627][842]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.12.03-08.27.24:697][842]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-08.27.25:975][916]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.12.03-08.27.29:826][131]LogEditorViewport: Clicking on Actor (LMB): CameraClamp_C (CameraClamp)
+[2019.12.03-08.27.32:833][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.27.33:091][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-08.27.33:169][310]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2019.12.03-08.27.33:550][310]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMap79762E6A46267145B9D404844FEA6760.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.12.03-08.27.33:614][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2019.12.03-08.27.33:954][310]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMap_BuiltData9EB732AF4AC16C98CD38939077517AA6.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.12.03-08.32.09:170][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.32.17:603][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.32.17:766][ 53]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/TDPlayerController.TDPlayerController
+[2019.12.03-08.32.21:088][227]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.32.22:361][300]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.03-08.32.22:361][300]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.32.24:619][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.32.24:766][440]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/PlayerCameraPawn.PlayerCameraPawn
+[2019.12.03-08.33.24:977][797]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.03-08.35.41:050][245]LogHttp: Warning: 000001CDA3F28540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1812A322-4CC9-4B7F-A0CE-309505EDA7D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.03-08.35.41:050][245]LogHttp: Warning: 000001CDA3F28540: request failed, libcurl error: 0 (No error)
+[2019.12.03-08.35.41:050][245]LogHttp: Warning: 000001CDA3F28540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1cd6438ff70 [can pipeline])
+[2019.12.03-08.35.41:050][245]LogHttp: Warning: 000001CDA3F28540: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2019.12.03-08.35.41:051][245]LogHttp: Warning: 000001CDA3F28540: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.106.25) port 443 (#10))
+[2019.12.03-08.35.41:051][245]LogHttp: Warning: 000001CDA3F28540: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.12.03-08.35.41:051][245]LogHttp: Warning: 000001CDA3F28540: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.12.03-08.35.41:051][245]LogHttp: Warning: 000001CDA3F28540: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.12.03-08.35.41:051][245]LogHttp: Warning: 000001CDA3F28540: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.12.03-08.35.41:051][245]LogHttp: Warning: 000001CDA3F28540: libcurl info message cache 7 (Closing connection 10)
+[2019.12.03-08.35.41:051][245]LogHttp: Warning: 000001CDA3F28540: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.03-08.35.41:069][246]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1812A322-4CC9-4B7F-A0CE-309505EDA7D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=f39bd5d04835e3aa28337a8f60141605%7Cbe2e1c9e352e4018a571bda687a7afc3%7Cd1590608-ecbe-40cc-bc68-3c2bcaec1647&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.03-08.38.28:650][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.12.03-08.38.30:293][ 61]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMap_Auto2B9A925D14085B66AC7BACD9AED1C82CC.tmp' to 'D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2019.12.03-08.38.30:298][ 61]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 1.692
+[2019.12.03-08.38.30:298][ 61]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.692
+[2019.12.03-08.38.30:304][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/PlayerCameraPawn] ([1] browsable assets)...
+[2019.12.03-08.38.30:304][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/PlayerCameraPawn]
+[2019.12.03-08.38.30:304][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCameraPawn" FILE="D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Player/PlayerCameraPawn_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.12.03-08.38.30:352][ 61]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/PlayerCameraPawn_Auto2177A39A642499D33A9646AA90D9D3CA3.tmp' to 'D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Player/PlayerCameraPawn_Auto2.uasset'
+[2019.12.03-08.38.30:353][ 61]LogFileHelpers: Auto-saving content packages took 0.049
+[2019.12.03-08.38.52:068][169]BlueprintLog: New page: Compile PlayerCameraPawn
+[2019.12.03-08.38.52:250][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.12.03-08.38.54:834][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.38.55:034][333]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-08.38.55:047][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.38.55:047][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-08.38.55:047][333]PIE: New page: PIE session: TopDownExampleMap (Dec 3, 2019, 3:38:55 AM)
+[2019.12.03-08.38.55:047][333]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-08.38.55:069][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021525s)
+[2019.12.03-08.38.55:070][333]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.03-08.38.55:070][333]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2019.12.03-08.38.55:070][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022810s)
+[2019.12.03-08.38.55:105][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.12.03-08.38.55:110][333]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-08.38.55:128][333]LogInit: FAudioDevice initialized.
+[2019.12.03-08.38.55:139][333]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.03-08.38.55:141][333]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.12.03-05.38.55
+[2019.12.03-08.38.55:141][333]LogWorld: Bringing up level for play took: 0.001248
+[2019.12.03-08.38.55:141][333]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.03-08.38.55:150][333]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.2
+[2019.12.03-08.38.55:150][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.39.11:782][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.39.11:782][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.39.11:782][329]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-08.39.11:783][329]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.39.11:809][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-08.39.11:809][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.39.11:848][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.39.11:852][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.12.03-08.39.11:895][332]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.03-08.41.20:806][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.03-08.41.20:827][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-08.41.20:863][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.12.03-08.41.21:036][873]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMap475AF7AC4F4BAD2D87E9CDA35543B52C.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.12.03-08.41.21:066][873]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.240
+[2019.12.03-08.41.21:069][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCameraPawn" FILE="D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset" SILENT=true
+[2019.12.03-08.41.21:111][873]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/PlayerCameraPawn548B744C4D1CB48247E5B4A0E7829622.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset'
+[2019.12.03-08.41.21:421][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.41.21:639][904]LogSlate: Window 'PlayerCameraPawn' being destroyed
+[2019.12.03-08.41.21:643][904]LogSlate: Window 'PlayerCameraPawn' being destroyed
+[2019.12.03-08.41.22:619][904]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.41.22:663][904]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.03-08.41.22:663][904]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.41.24:635][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.41.27:791][170]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tower/TowerBP.TowerBP
+[2019.12.03-08.41.30:227][281]LogSlate: Window 'TowerBP' being destroyed
+[2019.12.03-08.41.30:246][281]LogSlate: Window 'TowerBP' being destroyed
+[2019.12.03-08.41.30:256][281]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.41.34:189][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.41.36:659][511]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.03-08.42.00:533][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.12.03-08.42.00:533][128]LogMetaData: Removing '/Game/Tower/BuilderTowerPB.BuilderTowerPB:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tower/NewBlueprint.PackageMetaData'
+[2019.12.03-08.42.00:533][128]LogMetaData: Removing '/Game/Tower/BuilderTowerPB.SKEL_BuilderTowerPB_C' ref from Metadata '/Game/Tower/NewBlueprint.PackageMetaData'
+[2019.12.03-08.42.00:533][128]LogMetaData: Removing '/Game/Tower/BuilderTowerPB.BuilderTowerPB_C' ref from Metadata '/Game/Tower/NewBlueprint.PackageMetaData'
+[2019.12.03-08.42.00:533][128]LogMetaData: Removing '/Game/Tower/BuilderTowerPB.BuilderTowerPB:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Tower/NewBlueprint.PackageMetaData'
+[2019.12.03-08.42.00:533][128]LogMetaData: Removing '/Game/Tower/BuilderTowerPB.BuilderTowerPB:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Tower/NewBlueprint.PackageMetaData'
+[2019.12.03-08.42.00:533][128]LogMetaData: Removing '/Game/Tower/BuilderTowerPB.BuilderTowerPB:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Tower/NewBlueprint.PackageMetaData'
+[2019.12.03-08.42.00:556][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower/BuilderTowerPB" FILE="D:/Unreal Projects/TowerDefense/Content/Tower/BuilderTowerPB.uasset" SILENT=true
+[2019.12.03-08.42.00:567][128]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/BuilderTowerPB20DCB5924CE8BF3548D73CAFD79857F3.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Tower/BuilderTowerPB.uasset'
+[2019.12.03-08.42.00:717][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.03-08.42.00:754][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.12.03-08.42.00:785][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.12.03-08.44.08:480][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.44.22:826][679]LogAssetEditorManager: Opening Asset editor for Material /Game/Tower/GreenTranslucent.GreenTranslucent
+[2019.12.03-08.44.22:831][679]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.23:251][679]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.23:272][679]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.12.03-08.44.23:272][679]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.12.03-08.44.23:273][679]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.12.03-08.44.23:273][679]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.12.03-08.44.24:309][716]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.12.03-08.44.24:337][717]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.12.03-08.44.24:360][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.12.03-08.44.24:384][719]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.12.03-08.44.24:625][730]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.12.03-08.44.24:707][735]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.12.03-08.44.24:725][736]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.12.03-08.44.24:757][738]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.12.03-08.44.24:924][748]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.12.03-08.44.25:229][766]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.12.03-08.44.25:585][787]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.12.03-08.44.25:646][791]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2019.12.03-08.44.25:714][795]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.12.03-08.44.25:998][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.12.03-08.44.26:018][813]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.12.03-08.44.26:402][836]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.12.03-08.44.26:449][839]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.12.03-08.44.26:938][868]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.12.03-08.44.26:938][868]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.12.03-08.44.26:939][868]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.03-08.44.26:939][868]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.03-08.44.28:397][951]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.28:432][952]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.12.03-08.44.28:432][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.12.03-08.44.28:432][952]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.12.03-08.44.28:432][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.12.03-08.44.28:742][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2019.12.03-08.44.28:758][972]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.12.03-08.44.28:775][973]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.12.03-08.44.28:775][973]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.12.03-08.44.28:930][982]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.12.03-08.44.29:061][990]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.12.03-08.44.29:077][991]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.12.03-08.44.29:093][992]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.03-08.44.29:193][998]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.12.03-08.44.29:464][ 14]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.12.03-08.44.29:695][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.12.03-08.44.29:760][ 32]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.12.03-08.44.29:827][ 36]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.12.03-08.44.30:078][ 51]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.12.03-08.44.30:112][ 53]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.12.03-08.44.30:379][ 69]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.03-08.44.30:443][ 73]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.12.03-08.44.31:539][138]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.31:603][138]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.31:627][138]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.31:671][139]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.12.03-08.44.31:671][139]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.12.03-08.44.31:671][139]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.12.03-08.44.31:671][139]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.12.03-08.44.31:841][142]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2019.12.03-08.44.31:855][142]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2019.12.03-08.44.31:864][142]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2019.12.03-08.44.32:001][149]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2019.12.03-08.44.32:086][154]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2019.12.03-08.44.32:185][160]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2019.12.03-08.44.32:200][161]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2019.12.03-08.44.32:282][166]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2019.12.03-08.44.32:331][169]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2019.12.03-08.44.32:384][172]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2019.12.03-08.44.32:517][180]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2019.12.03-08.44.32:585][184]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2019.12.03-08.44.33:037][211]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.12.03-08.44.33:119][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.12.03-08.44.33:202][221]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2019.12.03-08.44.33:739][252]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.12.03-08.44.33:805][256]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.12.03-08.44.33:906][262]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.12.03-08.44.34:365][289]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2019.12.03-08.44.34:532][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.12.03-08.44.34:546][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.12.03-08.44.34:667][307]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.12.03-08.44.35:148][336]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.12.03-08.44.35:334][347]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.12.03-08.44.35:483][356]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.12.03-08.44.35:630][365]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.12.03-08.44.35:903][381]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.12.03-08.44.36:254][402]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.12.03-08.44.36:383][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.12.03-08.44.36:467][415]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.12.03-08.44.36:720][430]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.12.03-08.44.37:022][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.12.03-08.44.37:038][449]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.12.03-08.44.37:211][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.12.03-08.44.37:611][483]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.12.03-08.44.37:986][505]MaterialEditorStats: Base pass shader: 72 instructions
+[2019.12.03-08.44.37:986][505]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 93 instructions
+[2019.12.03-08.44.37:986][505]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.12.03-08.44.37:986][505]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.03-08.44.44:225][876]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.44:250][876]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.44:295][877]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.12.03-08.44.44:295][877]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.12.03-08.44.44:295][877]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.12.03-08.44.44:295][877]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.12.03-08.44.44:477][888]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2019.12.03-08.44.44:510][890]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2019.12.03-08.44.44:523][891]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2019.12.03-08.44.44:643][898]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2019.12.03-08.44.44:709][902]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2019.12.03-08.44.44:825][909]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2019.12.03-08.44.44:843][910]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2019.12.03-08.44.44:924][915]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2019.12.03-08.44.44:976][918]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2019.12.03-08.44.45:042][922]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2019.12.03-08.44.45:142][928]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2019.12.03-08.44.45:228][933]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.12.03-08.44.45:698][961]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.12.03-08.44.45:837][969]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.12.03-08.44.45:890][972]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.12.03-08.44.46:787][ 19]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.12.03-08.44.46:805][ 20]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.12.03-08.44.47:054][ 34]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.12.03-08.44.47:138][ 38]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.47:220][ 38]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.47:575][ 43]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2019.12.03-08.44.47:684][ 48]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2019.12.03-08.44.47:753][ 51]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2019.12.03-08.44.47:980][ 63]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2019.12.03-08.44.48:074][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2019.12.03-08.44.48:137][ 71]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2019.12.03-08.44.48:352][ 82]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2019.12.03-08.44.48:389][ 84]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2019.12.03-08.44.48:693][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2019.12.03-08.44.48:712][100]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2019.12.03-08.44.48:750][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2019.12.03-08.44.48:818][104]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.48:956][108]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2019.12.03-08.44.49:007][111]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2019.12.03-08.44.49:064][112]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2019.12.03-08.44.49:215][119]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.12.03-08.44.49:281][123]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2019.12.03-08.44.49:367][128]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2019.12.03-08.44.49:551][139]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2019.12.03-08.44.49:602][142]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2019.12.03-08.44.49:798][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2019.12.03-08.44.49:860][156]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2019.12.03-08.44.49:895][158]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2019.12.03-08.44.50:092][169]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2019.12.03-08.44.50:126][171]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2019.12.03-08.44.50:193][175]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2019.12.03-08.44.50:319][182]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2019.12.03-08.44.50:559][195]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2019.12.03-08.44.51:123][225]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.12.03-08.44.51:242][232]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.03-08.44.51:412][242]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2019.12.03-08.44.52:000][276]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.12.03-08.44.52:163][285]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.12.03-08.44.52:336][295]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.12.03-08.44.52:626][310]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.52:690][310]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.03-08.44.52:718][310]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.52:802][310]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2019.12.03-08.44.52:803][310]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.03-08.44.53:047][314]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 42
+[2019.12.03-08.44.53:066][314]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2019.12.03-08.44.53:133][316]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2019.12.03-08.44.53:305][323]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.12.03-08.44.53:472][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.12.03-08.44.53:533][334]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2019.12.03-08.44.53:732][344]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2019.12.03-08.44.53:874][352]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2019.12.03-08.44.53:908][354]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2019.12.03-08.44.54:046][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2019.12.03-08.44.54:187][370]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2019.12.03-08.44.54:238][373]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2019.12.03-08.44.54:349][379]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2019.12.03-08.44.54:438][384]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2019.12.03-08.44.54:758][401]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2019.12.03-08.44.55:409][432]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2019.12.03-08.44.55:621][439]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2019.12.03-08.44.55:749][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2019.12.03-08.44.56:544][482]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2019.12.03-08.44.56:661][487]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.12.03-08.44.56:910][498]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2019.12.03-08.44.57:469][526]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.12.03-08.44.57:642][534]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.44.57:703][534]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.12.03-08.44.57:718][534]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.03-08.44.57:754][535]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2019.12.03-08.44.57:918][537]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2019.12.03-08.44.58:107][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2019.12.03-08.44.58:521][564]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2019.12.03-08.44.58:658][571]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2019.12.03-08.44.58:679][572]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.12.03-08.44.58:904][584]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2019.12.03-08.44.59:227][601]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.12.03-08.44.59:247][602]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2019.12.03-08.44.59:283][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2019.12.03-08.44.59:316][606]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2019.12.03-08.44.59:573][620]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2019.12.03-08.44.59:612][622]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.12.03-08.44.59:738][629]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2019.12.03-08.44.59:788][632]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2019.12.03-08.45.00:081][649]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2019.12.03-08.45.00:250][657]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.45.00:333][657]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.03-08.45.00:581][661]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2019.12.03-08.45.00:840][671]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2019.12.03-08.45.00:947][676]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2019.12.03-08.45.00:968][677]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2019.12.03-08.45.01:337][695]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2019.12.03-08.45.01:400][698]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2019.12.03-08.45.01:541][705]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2019.12.03-08.45.01:641][710]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2019.12.03-08.45.01:857][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.03-08.45.01:858][721]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.45.01:919][721]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.12.03-08.45.01:936][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.03-08.45.01:954][721]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.12.03-08.45.01:957][721]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.03-08.45.02:114][724]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2019.12.03-08.45.02:304][734]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2019.12.03-08.45.02:697][754]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2019.12.03-08.45.02:829][761]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2019.12.03-08.45.02:864][763]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.12.03-08.45.02:881][764]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.12.03-08.45.03:055][774]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2019.12.03-08.45.03:265][785]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2019.12.03-08.45.03:461][795]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2019.12.03-08.45.03:570][801]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2019.12.03-08.45.03:605][803]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2019.12.03-08.45.03:658][806]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2019.12.03-08.45.03:897][819]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2019.12.03-08.45.04:033][826]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2019.12.03-08.45.04:197][835]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2019.12.03-08.45.04:858][864]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2019.12.03-08.45.05:140][875]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2019.12.03-08.45.05:163][876]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2019.12.03-08.45.05:912][905]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.12.03-08.45.05:935][906]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.12.03-08.45.06:260][919]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2019.12.03-08.45.06:764][936]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.12.03-08.45.06:948][943]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2019.12.03-08.45.07:027][946]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.12.03-08.45.07:543][957]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.12.03-08.45.08:041][974]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.12.03-08.45.08:432][988]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.12.03-08.45.08:791][  1]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2019.12.03-08.45.08:871][  4]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.12.03-08.45.09:408][ 24]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.12.03-08.45.10:003][ 45]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.12.03-08.45.10:066][ 47]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.12.03-08.45.10:267][ 54]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.12.03-08.45.10:995][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2019.12.03-08.45.11:305][ 92]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.12.03-08.45.11:389][ 95]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.12.03-08.45.11:583][102]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.12.03-08.45.12:314][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.12.03-08.45.12:757][154]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.12.03-08.45.12:782][155]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.12.03-08.45.12:960][163]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.12.03-08.45.13:021][166]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.12.03-08.45.13:084][168]MaterialEditorStats: Base pass shader: 77 instructions
+[2019.12.03-08.45.13:085][168]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2019.12.03-08.45.13:085][168]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.12.03-08.45.13:085][168]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.03-08.45.15:318][282]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.45.15:373][282]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.12.03-08.45.15:373][282]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.12.03-08.45.15:373][282]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.12.03-08.45.15:373][282]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.12.03-08.45.15:373][282]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.03-08.45.15:389][282]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.03-08.45.15:702][289]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.12.03-08.45.15:723][290]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2019.12.03-08.45.15:777][293]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2019.12.03-08.45.16:016][306]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2019.12.03-08.45.16:122][311]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2019.12.03-08.45.16:345][323]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2019.12.03-08.45.16:366][324]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2019.12.03-08.45.16:477][330]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2019.12.03-08.45.16:614][338]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2019.12.03-08.45.16:690][342]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2019.12.03-08.45.16:945][356]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2019.12.03-08.45.17:100][364]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2019.12.03-08.45.17:906][402]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2019.12.03-08.45.18:074][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2019.12.03-08.45.18:161][413]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2019.12.03-08.45.18:994][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2019.12.03-08.45.19:035][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.12.03-08.45.19:317][473]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.12.03-08.45.19:989][505]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.12.03-08.45.20:161][513]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.12.03-08.45.20:201][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.12.03-08.45.20:514][531]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.12.03-08.45.21:080][560]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.12.03-08.45.21:425][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.03-08.45.21:813][595]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.12.03-08.45.21:975][603]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.12.03-08.45.22:386][621]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.12.03-08.45.23:284][647]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.12.03-08.45.23:317][648]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.12.03-08.45.23:586][657]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.12.03-08.45.24:407][683]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.12.03-08.45.24:766][692]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.12.03-08.45.24:835][694]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.12.03-08.45.25:167][704]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.12.03-08.45.25:878][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.12.03-08.45.26:316][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.12.03-08.45.26:449][745]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.12.03-08.45.26:478][746]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.12.03-08.45.26:556][749]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.12.03-08.45.27:242][751]MaterialEditorStats: Base pass shader: 77 instructions
+[2019.12.03-08.45.27:243][751]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2019.12.03-08.45.27:243][751]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.12.03-08.45.27:243][751]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.03-08.45.52:537][121]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Tower/BuilderTowerPB.BuilderTowerPB
+[2019.12.03-08.46.23:747][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.46.23:962][753]BlueprintLog: New page: Compile BuilderTowerPB
+[2019.12.03-08.46.24:411][753]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2019.12.03-08.47.04:362][629]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.47.04:392][630]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.03-08.47.04:392][630]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.03-08.47.04:392][630]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.03-08.47.04:392][630]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.03-08.47.05:765][690]LogAssetEditorManager: Opening Asset editor for Material /Game/Tower/RedTranslucent.RedTranslucent
+[2019.12.03-08.47.05:771][690]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.47.05:998][690]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.47.06:015][690]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.12.03-08.47.06:188][690]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2019.12.03-08.47.06:267][690]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.12.03-08.47.06:542][705]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.12.03-08.47.06:656][712]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.12.03-08.47.06:671][713]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.03-08.47.06:929][728]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.12.03-08.47.07:042][735]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.12.03-08.47.07:074][737]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.12.03-08.47.07:245][747]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.12.03-08.47.07:311][751]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.12.03-08.47.07:391][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.12.03-08.47.07:831][782]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.12.03-08.47.07:885][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.12.03-08.47.08:032][793]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.12.03-08.47.08:131][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.12.03-08.47.08:429][817]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.12.03-08.47.08:496][821]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.12.03-08.47.08:579][826]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.12.03-08.47.08:730][835]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.03-08.47.08:882][844]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.12.03-08.47.09:355][872]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.12.03-08.47.09:355][872]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.12.03-08.47.09:355][872]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.03-08.47.09:355][872]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.03-08.47.15:670][243]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.47.20:222][441]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2019.12.03-08.47.21:887][441]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.03-08.47.21:999][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.03-08.47.24:215][537]LogMaterial: Display: Missing cached shader map for material GreenTranslucent_2, compiling. 
+[2019.12.03-08.47.24:249][538]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.03-08.47.24:249][538]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.03-08.47.24:249][538]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.03-08.47.24:249][538]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.03-08.47.31:826][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower/RedTranslucent" FILE="D:/Unreal Projects/TowerDefense/Content/Tower/RedTranslucent.uasset" SILENT=true
+[2019.12.03-08.47.31:857][792]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/RedTranslucentD222E017486468A088F69B8375C9EEB5.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Tower/RedTranslucent.uasset'
+[2019.12.03-08.47.32:199][792]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2019.12.03-08.47.32:276][792]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2019.12.03-08.47.32:351][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.12.03-08.47.34:205][841]LogAssetEditorManager: Opening Asset editor for Material /Game/Tower/RedTranslucent.RedTranslucent
+[2019.12.03-08.47.34:212][841]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.47.34:356][841]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.47.34:392][841]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.47.34:423][841]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.12.03-08.47.34:423][841]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.12.03-08.47.34:423][841]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.12.03-08.47.34:423][841]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.12.03-08.47.35:067][862]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.12.03-08.47.35:086][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.03-08.47.35:086][863]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.12.03-08.47.35:125][865]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.12.03-08.47.35:450][880]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.12.03-08.47.35:669][891]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2019.12.03-08.47.35:718][894]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.12.03-08.47.35:735][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.03-08.47.35:943][907]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.12.03-08.47.36:406][931]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.12.03-08.47.36:880][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.12.03-08.47.36:941][958]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.12.03-08.47.37:139][968]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.12.03-08.47.37:635][991]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.12.03-08.47.37:726][993]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.12.03-08.47.38:200][ 10]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.12.03-08.47.38:361][ 16]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.12.03-08.47.39:676][ 19]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.12.03-08.47.39:676][ 19]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.12.03-08.47.39:676][ 19]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.03-08.47.39:676][ 19]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.03-08.47.57:030][191]LogMaterialEditor: Saving and Compiling material GreenTranslucent
+[2019.12.03-08.47.58:612][191]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.47.58:704][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.12.03-08.47.58:704][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.12.03-08.47.58:704][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.12.03-08.47.58:704][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.12.03-08.47.58:731][191]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.47.58:771][191]LogMaterial: Display: Missing cached shader map for material GreenTranslucent, compiling. 
+[2019.12.03-08.47.58:855][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.12.03-08.47.58:870][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 75
+[2019.12.03-08.47.58:870][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 74
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 73
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 69
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 68
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 67
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 63
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 61
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 57
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 49
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2019.12.03-08.48.02:804][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2019.12.03-08.48.02:805][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2019.12.03-08.48.02:805][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2019.12.03-08.48.02:805][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2019.12.03-08.48.02:805][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2019.12.03-08.48.02:805][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2019.12.03-08.48.02:805][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2019.12.03-08.48.02:805][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2019.12.03-08.48.02:805][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.12.03-08.48.02:809][191]TextureStreamingBuild: Display: Compiling optional shaders took 3.953 seconds.
+[2019.12.03-08.48.02:853][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.12.03-08.48.06:495][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.12.03-08.48.06:495][191]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.12.03-08.48.06:495][191]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2019.12.03-08.48.06:495][191]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.12.03-08.48.06:495][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.03-08.48.06:495][191]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.12.03-08.48.06:641][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower/GreenTranslucent" FILE="D:/Unreal Projects/TowerDefense/Content/Tower/GreenTranslucent.uasset" SILENT=true
+[2019.12.03-08.48.06:655][191]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/GreenTranslucent6D00B48D4CFF1E5CE10842937E7FA06C.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Tower/GreenTranslucent.uasset'
+[2019.12.03-08.48.07:529][237]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.48.11:347][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.12.03-08.48.12:866][420]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.03-08.48.12:974][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.12.03-08.48.13:010][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.12.03-08.48.13:045][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.12.03-08.48.22:690][960]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.48.22:719][961]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2019.12.03-08.48.22:719][961]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2019.12.03-08.48.22:719][961]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.12.03-08.48.22:719][961]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2019.12.03-08.48.24:366][ 34]LogAssetEditorManager: Opening Asset editor for Material /Game/Tower/RedTranslucent.RedTranslucent
+[2019.12.03-08.48.24:374][ 34]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.48.24:518][ 34]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.48.24:556][ 34]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.48.24:600][ 34]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.03-08.48.24:736][ 34]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2019.12.03-08.48.24:896][ 35]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2019.12.03-08.48.25:315][ 58]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2019.12.03-08.48.25:529][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2019.12.03-08.48.25:740][ 81]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.12.03-08.48.26:193][103]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2019.12.03-08.48.26:855][133]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2019.12.03-08.48.27:223][150]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2019.12.03-08.48.27:559][167]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.48.27:635][167]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.03-08.48.27:725][170]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2019.12.03-08.48.28:044][179]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2019.12.03-08.48.28:228][188]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.48.28:297][188]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.03-08.48.28:633][195]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2019.12.03-08.48.29:017][211]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2019.12.03-08.48.29:716][246]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.12.03-08.48.29:716][246]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.48.29:789][246]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.03-08.48.29:813][246]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.03-08.48.29:936][249]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2019.12.03-08.48.30:317][260]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2019.12.03-08.48.30:337][261]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2019.12.03-08.48.30:616][275]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2019.12.03-08.48.30:725][280]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2019.12.03-08.48.30:987][294]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.12.03-08.48.31:020][296]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 37
+[2019.12.03-08.48.31:089][300]LogMaterialEditor: Saving and Compiling material RedTranslucent
+[2019.12.03-08.48.32:258][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.12.03-08.48.32:258][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2019.12.03-08.48.32:258][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2019.12.03-08.48.32:258][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2019.12.03-08.48.32:258][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2019.12.03-08.48.32:259][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2019.12.03-08.48.32:259][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2019.12.03-08.48.32:259][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2019.12.03-08.48.32:259][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2019.12.03-08.48.32:353][300]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.48.32:484][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.03-08.48.32:504][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2019.12.03-08.48.32:520][300]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.48.32:554][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2019.12.03-08.48.32:560][300]LogMaterial: Display: Missing cached shader map for material RedTranslucent, compiling. 
+[2019.12.03-08.48.32:645][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.12.03-08.48.32:659][300]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 82
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 81
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 79
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 77
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 75
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 73
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 70
+[2019.12.03-08.48.38:197][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 69
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 67
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 65
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 64
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 63
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 61
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 60
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 57
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 49
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 46
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.03-08.48.38:198][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2019.12.03-08.48.38:202][300]TextureStreamingBuild: Display: Compiling optional shaders took 5.557 seconds.
+[2019.12.03-08.48.38:271][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.12.03-08.48.44:085][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.12.03-08.48.44:086][300]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2019.12.03-08.48.44:086][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.12.03-08.48.44:086][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.12.03-08.48.44:086][300]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.12.03-08.48.44:086][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.12.03-08.48.44:260][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower/RedTranslucent" FILE="D:/Unreal Projects/TowerDefense/Content/Tower/RedTranslucent.uasset" SILENT=true
+[2019.12.03-08.48.44:283][300]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/RedTranslucentAF15C27F4DB965583A7C35ADEAC41DFD.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Tower/RedTranslucent.uasset'
+[2019.12.03-08.48.44:311][300]MaterialEditorStats: Base pass shader: 77 instructions
+[2019.12.03-08.48.44:311][300]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 98 instructions
+[2019.12.03-08.48.44:311][300]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2019.12.03-08.48.44:311][300]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.03-08.48.51:188][377]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.48.52:414][448]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.48.53:737][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.12.03-08.48.53:773][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower/BuilderTowerPB" FILE="D:/Unreal Projects/TowerDefense/Content/Tower/BuilderTowerPB.uasset" SILENT=true
+[2019.12.03-08.48.53:797][524]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/BuilderTowerPB9426BF8B49494D06AF1BB582D2415619.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Tower/BuilderTowerPB.uasset'
+[2019.12.03-08.49.29:251][ 41]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/TowerSelectionWidget.TowerSelectionWidget
+[2019.12.03-08.50.16:349][ 19]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.03-08.51.21:652][485]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2019.12.03-08.51.21:652][485]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.068
+[2019.12.03-08.51.21:654][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TowerSelectionWidget] ([1] browsable assets)...
+[2019.12.03-08.51.21:654][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TowerSelectionWidget]
+[2019.12.03-08.51.21:654][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TowerSelectionWidget" FILE="D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/UI/TowerSelectionWidget_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.12.03-08.51.23:368][485]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TowerSelectionWidget_Auto343D3FB2642BA864EBC03AD8896781394.tmp' to 'D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/UI/TowerSelectionWidget_Auto3.uasset'
+[2019.12.03-08.51.23:369][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tower/BuilderTowerPB] ([1] browsable assets)...
+[2019.12.03-08.51.23:369][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tower/BuilderTowerPB]
+[2019.12.03-08.51.23:369][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower/BuilderTowerPB" FILE="D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Tower/BuilderTowerPB_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.12.03-08.51.23:380][485]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/BuilderTowerPB_Auto3C9494C9E4C8450F31C25E6B357197D6A.tmp' to 'D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Tower/BuilderTowerPB_Auto3.uasset'
+[2019.12.03-08.51.23:495][485]LogFileHelpers: Auto-saving content packages took 1.841
+[2019.12.03-08.55.10:469][718]BlueprintLog: New page: Compile TowerSelectionWidget
+[2019.12.03-08.55.10:527][718]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.12.03-08.55.47:485][418]BlueprintLog: New page: Compile BuilderTowerPB
+[2019.12.03-08.55.47:750][418]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.12.03-08.55.52:444][683]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-08.55.52:464][683]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.55.52:464][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-08.55.52:464][683]PIE: New page: PIE session: TopDownExampleMap (Dec 3, 2019, 3:55:52 AM)
+[2019.12.03-08.55.52:464][683]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-08.55.52:477][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012582s)
+[2019.12.03-08.55.52:478][683]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.03-08.55.52:478][683]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2019.12.03-08.55.52:478][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014028s)
+[2019.12.03-08.55.52:528][683]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2019.12.03-08.55.52:533][683]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-08.55.52:548][683]LogInit: FAudioDevice initialized.
+[2019.12.03-08.55.52:557][683]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.03-08.55.52:559][683]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.12.03-05.55.52
+[2019.12.03-08.55.52:560][683]LogWorld: Bringing up level for play took: 0.001164
+[2019.12.03-08.55.52:560][683]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.03-08.55.52:566][683]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.784
+[2019.12.03-08.55.52:566][683]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.55.55:822][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-08.56.00:822][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.56.00:823][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.56.00:823][177]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-08.56.00:823][177]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-08.56.00:840][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-08.56.00:840][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-08.56.00:889][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-08.56.00:894][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2019.12.03-08.56.00:922][179]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.03-08.58.25:258][556]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.03-08.58.53:007][178]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.03-08.58.53:011][178]LogSlate: Window 'Project Settings' being destroyed
+[2019.12.03-09.01.01:319][204]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player/PlayerCameraPawn.PlayerCameraPawn
+[2019.12.03-09.01.24:649][284]BlueprintLog: New page: Compile TowerSelectionWidget
+[2019.12.03-09.01.24:756][284]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2019.12.03-09.01.26:486][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TowerSelectionWidget" FILE="D:/Unreal Projects/TowerDefense/Content/UI/TowerSelectionWidget.uasset" SILENT=true
+[2019.12.03-09.01.26:638][370]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TowerSelectionWidget6EF7E4AB464B3A16D66E37BC93130E14.tmp' to 'D:/Unreal Projects/TowerDefense/Content/UI/TowerSelectionWidget.uasset'
+[2019.12.03-09.01.50:439][755]BlueprintLog: New page: Compile PlayerCameraPawn
+[2019.12.03-09.01.51:108][755]LogUObjectHash: Compacting FUObjectHashTables data took  12.62ms
+[2019.12.03-09.02.16:030][851]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.12.03-09.02.16:293][851]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMap_Auto43CB7D7494BD82732A76874933B539981.tmp' to 'D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2019.12.03-09.02.16:295][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.313
+[2019.12.03-09.02.16:295][851]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.313
+[2019.12.03-09.02.16:297][851]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player/PlayerCameraPawn] ([1] browsable assets)...
+[2019.12.03-09.02.16:297][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/PlayerCameraPawn]
+[2019.12.03-09.02.16:297][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCameraPawn" FILE="D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Player/PlayerCameraPawn_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.12.03-09.02.16:345][851]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/PlayerCameraPawn_Auto49A88B3F540A8D9101BD70CA4BF4EE8ED.tmp' to 'D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Player/PlayerCameraPawn_Auto4.uasset'
+[2019.12.03-09.02.16:346][851]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tower/BuilderTowerPB] ([1] browsable assets)...
+[2019.12.03-09.02.16:424][851]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tower/BuilderTowerPB.BuilderTowerPB]
+[2019.12.03-09.02.16:424][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tower/BuilderTowerPB]
+[2019.12.03-09.02.16:424][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower/BuilderTowerPB" FILE="D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Tower/BuilderTowerPB_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.12.03-09.02.16:478][851]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/BuilderTowerPB_Auto427C370364CD846257A65BA9CF06EC45E.tmp' to 'D:/Unreal Projects/TowerDefense/Saved/Autosaves/Game/Tower/BuilderTowerPB_Auto4.uasset'
+[2019.12.03-09.02.16:478][851]LogFileHelpers: Auto-saving content packages took 0.182
+[2019.12.03-09.03.30:866][135]BlueprintLog: New page: Compile PlayerCameraPawn
+[2019.12.03-09.03.31:151][135]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.03-09.03.52:184][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCameraPawn" FILE="D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset" SILENT=true
+[2019.12.03-09.03.52:232][383]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/PlayerCameraPawn838BC03D456D8A0F0C50F8811224202D.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset'
+[2019.12.03-09.09.49:594][818]BlueprintLog: New page: Compile PlayerCameraPawn
+[2019.12.03-09.09.49:610][818]LogBlueprint: Warning: [Compiler PlayerCameraPawn] Could not find the function 'PlaceTower' called from  Place Tower
+[2019.12.03-09.09.49:888][818]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2019.12.03-09.09.50:678][852]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2019.12.03-09.09.50:699][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-09.09.50:747][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.12.03-09.09.51:005][852]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMapEDA036E54E30A8EBA89AC89E464A34AB.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.12.03-09.09.51:036][852]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.337
+[2019.12.03-09.09.51:040][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCameraPawn" FILE="D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset" SILENT=true
+[2019.12.03-09.09.51:468][852]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/PlayerCameraPawn407ABDBA473783591C8FEB82AA918E07.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset'
+[2019.12.03-09.09.51:474][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TowerSelectionWidget" FILE="D:/Unreal Projects/TowerDefense/Content/UI/TowerSelectionWidget.uasset" SILENT=true
+[2019.12.03-09.09.51:512][852]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TowerSelectionWidget9A212FA74F960E7834780A943286CB1E.tmp' to 'D:/Unreal Projects/TowerDefense/Content/UI/TowerSelectionWidget.uasset'
+[2019.12.03-09.09.51:594][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tower/BuilderTowerPB" FILE="D:/Unreal Projects/TowerDefense/Content/Tower/BuilderTowerPB.uasset" SILENT=true
+[2019.12.03-09.09.51:626][852]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/BuilderTowerPB1CAA1FA24D1255FCDB0B1AA04E910DA6.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Tower/BuilderTowerPB.uasset'
+[2019.12.03-09.09.58:977][282]BlueprintLog: New page: Compile PlayerCameraPawn
+[2019.12.03-09.09.58:988][282]LogBlueprint: Warning: [Compiler PlayerCameraPawn] Could not find the function 'PlaceTower' called from  Place Tower
+[2019.12.03-09.09.59:257][282]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2019.12.03-09.10.25:027][673]BlueprintLog: New page: Compile PlayerCameraPawn
+[2019.12.03-09.10.25:051][673]LogBlueprint: Warning: [Compiler PlayerCameraPawn] Could not find the function 'PlaceTower' called from  Place Tower
+[2019.12.03-09.10.25:594][673]LogUObjectHash: Compacting FUObjectHashTables data took  10.97ms
+[2019.12.03-09.10.34:775][213]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-09.10.34:817][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.10.34:817][213]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.03-09.10.34:847][213]LogPlayLevel: [PlayLevel] Compiling BuilderTowerPB before play...
+[2019.12.03-09.10.34:850][213]LogBlueprint: Error: [Compiler BuilderTowerPB] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2019.12.03-09.10.35:343][213]LogPlayLevel: [PlayLevel] Compiling TowerSelectionWidget before play...
+[2019.12.03-09.10.35:918][213]LogUObjectHash: Compacting FUObjectHashTables data took  11.73ms
+[2019.12.03-09.10.35:918][213]LogPlayLevel: PlayLevel: Blueprint regeneration took 1101 ms (2 blueprints)
+[2019.12.03-09.10.35:919][213]BlueprintLog: Warning: Blueprint failed to compile:  BuilderTowerPB
+[2019.12.03-09.10.35:921][213]LogCustomDialog: Dialog displayed:
+[2019.12.03-09.10.38:215][213]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.12.03-09.10.38:231][213]PIE: New page: PIE session: TopDownExampleMap (Dec 3, 2019, 4:10:38 AM)
+[2019.12.03-09.10.38:232][213]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.10.38:259][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026541s)
+[2019.12.03-09.10.38:261][213]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.03-09.10.38:262][213]LogPlayLevel: PIE: World Init took: (0.002662s)
+[2019.12.03-09.10.38:262][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.029763s)
+[2019.12.03-09.10.38:362][213]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2019.12.03-09.10.38:370][213]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-09.10.38:400][213]LogInit: FAudioDevice initialized.
+[2019.12.03-09.10.38:419][213]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.03-09.10.38:425][213]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.03-06.10.38
+[2019.12.03-09.10.38:425][213]LogWorld: Bringing up level for play took: 0.003254
+[2019.12.03-09.10.38:426][213]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.03-09.10.38:437][213]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 3.087
+[2019.12.03-09.10.38:437][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.10.43:541][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.10.46:769][590]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	PlayerCameraPawn_C /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.PlayerCameraPawn_2
+	Function /Game/Player/PlayerCameraPawn.PlayerCameraPawn_C:ExecuteUbergraph_PlayerCameraPawn:014A
+[2019.12.03-09.10.46:769][590]PIE: Error: Infinite loop detected. Blueprint:  PlayerCameraPawn Function:  Branch Call Stack:  Show
+[2019.12.03-09.10.46:771][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.10.46:771][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.10.46:771][590]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.10.46:772][590]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-09.10.46:845][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-09.10.46:845][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.10.46:934][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.10.46:944][590]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2019.12.03-09.10.46:974][590]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-09.10.47:050][591]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.03-09.10.49:692][740]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-09.10.49:715][740]LogSlate: Window 'Message Log' being destroyed
+[2019.12.03-09.10.56:475][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.10.57:944][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.12.03-09.10.57:984][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-09.10.58:070][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.12.03-09.10.58:583][193]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMapB1BEA4EC46FB6FD36861EBB8804B80C8.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.12.03-09.10.58:638][193]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.655
+[2019.12.03-09.10.58:643][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCameraPawn" FILE="D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset" SILENT=true
+[2019.12.03-09.10.58:745][193]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/PlayerCameraPawnA2DB70DD4FC5937E2D03ACAAFE60EE55.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset'
+[2019.12.03-09.11.06:091][608]BlueprintLog: New page: Compile PlayerCameraPawn
+[2019.12.03-09.11.06:657][608]LogUObjectHash: Compacting FUObjectHashTables data took  11.11ms
+[2019.12.03-09.11.09:424][753]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-09.11.09:465][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.11.09:465][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-09.11.09:465][753]PIE: New page: PIE session: TopDownExampleMap (Dec 3, 2019, 4:11:09 AM)
+[2019.12.03-09.11.09:465][753]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.11.09:488][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022736s)
+[2019.12.03-09.11.09:490][753]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.03-09.11.09:490][753]LogPlayLevel: PIE: World Init took: (0.002206s)
+[2019.12.03-09.11.09:490][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025214s)
+[2019.12.03-09.11.09:593][753]LogUObjectHash: Compacting FUObjectHashTables data took  10.24ms
+[2019.12.03-09.11.09:601][753]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-09.11.09:631][753]LogInit: FAudioDevice initialized.
+[2019.12.03-09.11.09:646][753]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.03-09.11.09:649][753]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.03-06.11.09
+[2019.12.03-09.11.09:650][753]LogWorld: Bringing up level for play took: 0.002341
+[2019.12.03-09.11.09:650][753]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.12.03-09.11.09:660][753]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.311
+[2019.12.03-09.11.09:661][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.11.13:823][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.11.16:444][145]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.11.16:444][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.11.16:444][145]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.11.16:444][145]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-09.11.16:497][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-09.11.16:497][145]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.11.16:599][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.11.16:609][145]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2019.12.03-09.11.16:628][146]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.12.03-09.11.25:438][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.12.03-09.11.25:462][655]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.03-09.11.25:477][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.03-09.11.25:564][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.12.03-09.11.26:075][655]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TopDownExampleMapD227A9964F63ACE7DD98B39DF954EA67.tmp' to 'D:/Unreal Projects/TowerDefense/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2019.12.03-09.11.26:129][655]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.652
+[2019.12.03-09.11.26:134][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCameraPawn" FILE="D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset" SILENT=true
+[2019.12.03-09.11.26:230][655]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/PlayerCameraPawnE234CCA947F6E0881F12AB97F2E50AC0.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset'
+[2019.12.03-09.11.32:807][ 17]BlueprintLog: New page: Compile PlayerCameraPawn
+[2019.12.03-09.11.33:385][ 17]LogUObjectHash: Compacting FUObjectHashTables data took  10.75ms
+[2019.12.03-09.11.35:689][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/PlayerCameraPawn" FILE="D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset" SILENT=true
+[2019.12.03-09.11.35:784][144]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/PlayerCameraPawn00960EEB494C772388EF369AFF161807.tmp' to 'D:/Unreal Projects/TowerDefense/Content/Player/PlayerCameraPawn.uasset'
+[2019.12.03-09.11.38:722][320]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-09.11.38:762][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.11.38:762][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-09.11.38:762][320]PIE: New page: PIE session: TopDownExampleMap (Dec 3, 2019, 4:11:38 AM)
+[2019.12.03-09.11.38:762][320]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.11.38:782][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019870s)
+[2019.12.03-09.11.38:784][320]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.03-09.11.38:785][320]LogPlayLevel: PIE: World Init took: (0.001970s)
+[2019.12.03-09.11.38:785][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022143s)
+[2019.12.03-09.11.38:878][320]LogUObjectHash: Compacting FUObjectHashTables data took  10.52ms
+[2019.12.03-09.11.38:885][320]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-09.11.38:916][320]LogInit: FAudioDevice initialized.
+[2019.12.03-09.11.38:927][320]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.03-09.11.38:930][320]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.03-06.11.38
+[2019.12.03-09.11.38:931][320]LogWorld: Bringing up level for play took: 0.002400
+[2019.12.03-09.11.38:931][320]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.12.03-09.11.38:941][320]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.408
+[2019.12.03-09.11.38:942][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.11.41:438][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.11.43:808][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.11.43:808][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.11.43:809][601]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.11.43:809][601]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-09.11.43:857][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-09.11.43:857][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.11.43:951][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.11.43:961][601]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2019.12.03-09.11.43:984][602]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.03-09.12.01:755][643]BlueprintLog: New page: Compile TowerSelectionWidget
+[2019.12.03-09.12.01:884][643]LogUObjectHash: Compacting FUObjectHashTables data took   9.69ms
+[2019.12.03-09.12.05:071][829]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-09.12.05:111][829]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.12.05:111][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-09.12.05:111][829]PIE: New page: PIE session: TopDownExampleMap (Dec 3, 2019, 4:12:05 AM)
+[2019.12.03-09.12.05:111][829]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.12.05:131][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019650s)
+[2019.12.03-09.12.05:133][829]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.03-09.12.05:133][829]LogPlayLevel: PIE: World Init took: (0.001984s)
+[2019.12.03-09.12.05:133][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021944s)
+[2019.12.03-09.12.05:235][829]LogUObjectHash: Compacting FUObjectHashTables data took  10.27ms
+[2019.12.03-09.12.05:242][829]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-09.12.05:273][829]LogInit: FAudioDevice initialized.
+[2019.12.03-09.12.05:280][829]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.03-09.12.05:284][829]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.03-06.12.05
+[2019.12.03-09.12.05:285][829]LogWorld: Bringing up level for play took: 0.002344
+[2019.12.03-09.12.05:285][829]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.12.03-09.12.05:295][829]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.055
+[2019.12.03-09.12.05:295][829]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.12.07:404][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.12.12:090][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.12.12:091][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.12.12:091][232]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.12.12:091][232]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-09.12.12:124][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-09.12.12:125][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.12.12:227][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.12.12:238][232]LogUObjectHash: Compacting FUObjectHashTables data took   8.03ms
+[2019.12.03-09.12.12:257][233]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.03-09.12.16:704][489]Cmd: TRANSACTION UNDO
+[2019.12.03-09.12.16:704][489]LogEditorTransaction: Undo Delete current selection
+[2019.12.03-09.12.26:654][ 83]BlueprintLog: New page: Compile TowerSelectionWidget
+[2019.12.03-09.12.26:763][ 83]LogUObjectHash: Compacting FUObjectHashTables data took  10.50ms
+[2019.12.03-09.12.30:554][305]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-09.12.30:594][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.12.30:594][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-09.12.30:594][305]PIE: New page: PIE session: TopDownExampleMap (Dec 3, 2019, 4:12:30 AM)
+[2019.12.03-09.12.30:594][305]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.12.30:614][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019529s)
+[2019.12.03-09.12.30:616][305]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.03-09.12.30:616][305]LogPlayLevel: PIE: World Init took: (0.002182s)
+[2019.12.03-09.12.30:616][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.022014s)
+[2019.12.03-09.12.30:707][305]LogUObjectHash: Compacting FUObjectHashTables data took  10.13ms
+[2019.12.03-09.12.30:715][305]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-09.12.30:745][305]LogInit: FAudioDevice initialized.
+[2019.12.03-09.12.30:761][305]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.03-09.12.30:764][305]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.03-06.12.30
+[2019.12.03-09.12.30:764][305]LogWorld: Bringing up level for play took: 0.002250
+[2019.12.03-09.12.30:765][305]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.12.03-09.12.30:775][305]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.574
+[2019.12.03-09.12.30:775][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.12.32:469][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.12.34:956][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.12.34:956][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.12.34:956][539]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.12.34:957][539]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-09.12.34:986][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-09.12.34:986][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.12.35:083][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.12.35:093][539]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2019.12.03-09.12.35:113][540]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.12.03-09.13.04:902][209]BlueprintLog: New page: Compile TowerSelectionWidget
+[2019.12.03-09.13.05:023][209]LogUObjectHash: Compacting FUObjectHashTables data took   9.82ms
+[2019.12.03-09.13.05:767][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TowerSelectionWidget" FILE="D:/Unreal Projects/TowerDefense/Content/UI/TowerSelectionWidget.uasset" SILENT=true
+[2019.12.03-09.13.05:807][239]LogSavePackage: Moving 'D:/Unreal Projects/TowerDefense/Saved/TowerSelectionWidgetE0B3C8E446EE75A72DB01682E9C98CD1.tmp' to 'D:/Unreal Projects/TowerDefense/Content/UI/TowerSelectionWidget.uasset'
+[2019.12.03-09.13.13:163][679]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.03-09.13.23:701][311]BlueprintLog: New page: Compile BuilderTowerPB
+[2019.12.03-09.13.23:971][311]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2019.12.03-09.13.30:785][720]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.03-09.13.30:824][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.13.30:824][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.03-09.13.30:824][720]PIE: New page: PIE session: TopDownExampleMap (Dec 3, 2019, 4:13:30 AM)
+[2019.12.03-09.13.30:824][720]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.13.30:848][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023074s)
+[2019.12.03-09.13.30:850][720]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.03-09.13.30:850][720]LogPlayLevel: PIE: World Init took: (0.002063s)
+[2019.12.03-09.13.30:850][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025377s)
+[2019.12.03-09.13.30:947][720]LogUObjectHash: Compacting FUObjectHashTables data took  11.05ms
+[2019.12.03-09.13.30:955][720]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.03-09.13.30:985][720]LogInit: FAudioDevice initialized.
+[2019.12.03-09.13.30:996][720]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.12.03-09.13.31:000][720]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.03-06.13.31
+[2019.12.03-09.13.31:000][720]LogWorld: Bringing up level for play took: 0.002267
+[2019.12.03-09.13.31:000][720]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.12.03-09.13.31:011][720]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.339
+[2019.12.03-09.13.31:011][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.13.35:950][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.13.40:468][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.03-09.13.40:686][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.13.40:686][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.13.40:686][283]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.03-09.13.40:686][283]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.03-09.13.40:718][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.03-09.13.40:719][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.03-09.13.40:808][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.03-09.13.40:818][283]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2019.12.03-09.13.40:837][284]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.12.03-09.13.48:357][721]LogUObjectBase: Warning: Object is not registered
+[2019.12.03-09.13.48:361][721]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.03-09.13.49:026][721]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.666 s
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: 
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: Stack: 
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffb89a55279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffb89277fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffb8928622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffb8b7b6c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffb881d4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffb8818e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffb93f8d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffb9417c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffb93fd922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffb93fb5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffb93fa9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffba08f4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffba08e26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffba08f7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffba08dedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffbd3e9c906 USER32.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffbd3e9c422 USER32.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffba08f88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ff79a276980 UE4Editor.exe!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ff79a28a91c UE4Editor.exe!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ff79a28a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ff79a29b92c UE4Editor.exe!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ff79a29e60e UE4Editor.exe!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffbd3af7974 KERNEL32.DLL!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: [Callstack] 0x00007ffbd617a271 ntdll.dll!UnknownFunction []
+[2019.12.03-09.13.49:027][721]LogOutputDevice: Error: 
+[2019.12.03-09.13.49:148][721]LogStats:                SubmitErrorReport -  0.000 s
